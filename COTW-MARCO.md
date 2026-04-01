@@ -147,6 +147,7 @@ Primary Anti-Airs:
 #### Meaty - Normals
 All ranges : 
 * `236236A` > `236D whiff` > `dash` > `cl.5D`
+
 Corner:
 * `Throw` > `C+REV whiff` > `cl.5D`
 * `REV blow` > `whiff 623C` > `cl.5C/5D`
