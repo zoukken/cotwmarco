@@ -1,5 +1,7 @@
 # Character Strategy Guide
 
+![Description](https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/04/marco-performing-his-c-hp-in-fatal-fury-city-of-the-wolves.jpeg)
+
 ## Overview
 | Strengths | Weaknesses |
 | :--- | :--- |
@@ -8,12 +10,11 @@
 | ✅ Special counter | |
 | ✅ Projectiles | |
 
-## Frame Data
+## FrameData
 
 <details>
   <summary>SHOW/HIDE</summary>
   
-### Normals
 | Move | Guard | Startup | Block | Damage | Rev Dmg |
 | --- | --- | --- | --- | --- | --- |
 | Far A | Mid | 6 | 0 | 35 | 3% |
@@ -37,7 +38,6 @@
 | High Dodge | Mid | 10 | -6 | 50 | 5% |
 | Low Dodge | High | 25 | -2 | 80 | 8% |
 
-### Commands normals
 | Move | Guard | Startup | Block | Damage | Rev Dmg |
 | --- | --- | --- | --- | --- | --- |
 | 6A | High | 19 | -8 | 50 | - |
@@ -47,7 +47,6 @@
 | CD,P (Interrupt) | Mid | 9 | -3 | 82 | 10% |
 | j.CD | Mid | 21 | -2 | 132 | 10% |
 
-### Specials
 | Move | Guard | Startup | Block | Damage | Rev Dmg |
 | --- | --- | --- | --- | --- | --- |
 | 236A | Mid | 13 | -6 | 60 | 6% |
@@ -72,7 +71,6 @@
 | TAP K | Mid | 15 | -9~0 | 80 | 8% |
 | TAP BD | Mid | 13 | -10~-1 | 90 | 9% |
 
-### Supers
 | Move | Guard | Startup | Block | Damage | Rev Dmg |
 | --- | --- | --- | --- | --- | --- |
 | 236236A | Mid | 8 | -22~-5 | 250 | 25% |
@@ -84,7 +82,30 @@
 </details>
 
 
-## Super usage
+
+## Tips
+#### Pressure
+* `jump D` > `dash` > `2A`
+* `cl.5D feint` > `2A` > `236C`
+* `cl.5D feint` > `2C (anti-throw)`
+* `cl.5D feint` > `5A,5A`
+#### Movement
+* `short dash` > `214C`
+#### REV blow (ground) juggle
+* `623A` or `623PP Break`
+
+#### Crosscut inputs
+> input when the opponent is above your head.
+
+* DP: `Hold fwd` > `214C Break` 
+* Super 236236K : `Hold REV` > `236` > `214K`
+* Counter (214P) : `Hold fwd` > `236A`
+
+#### 2A/2C > 623P input
+* `3A/3C` > `64123P (fwd > hcf motion)` 
+
+
+## Supers
 > Damage tier: `REV` > `D` > `C` > `B` > `A`
 > Confirm into a Super from at most 3 lights
 
@@ -93,16 +114,6 @@
 * `Far 5B/5D/5C` are super-cancelable
 * `236236A/D/REV` are 6F
 * `236236B/D/REV` are invincible
-
-
-## Anti-Air
-> Use Dash > 623C to anti-air from afar
-
-Primary Anti-Airs: 
-* `623A` & `623C Break`
-* `2C`
-* `far 5D`.
-
 
 ## Break
 
@@ -124,13 +135,25 @@ Primary Anti-Airs:
 * `TAP-K`: 0F/-4F/-9F ob
 * `TAP-KK`: -2F/-4F/-10F ob
 
+## Guard Crush
+> hit-confirm with `dash` > `cl.5D` or `2C`.
+> ❌ = There's a gap vulnerable to invincible reversals
+* `2B,2B,5A` ❌ `236PP,236KK` > `REV Blow`
+* `cl.5D` > `TAP-PP,236PP,236KK` ❌ `REV Blow`
+* `cl.5D` > `TAP-PP,214PP` > `5A,2B,5B` > `236236A`
 
+## Frametraps
 
-## 214P Counter
-* `214A / 214PP`: Counters Highs and Rev Blows. 
-* `214C`: Counters Lows.
-* `214PP`: more active frames; cancels to Rev Arts.
-
+#### All ranges
+* `2C, 236A` > `far 5C`
+* `cl.5B` > `TAP-PP` or `623C`
+* `2C` > `TAP-P`
+* `236PP, 214PP` > `2A`
+* `236PP, 214PP` > `623C`
+#### Midscreen
+* `5A, 5A` > `far 5C`
+#### Corner
+* `5A, 5A, 5A` > `far 5C`
 
 ## Jumps & Crossups
 > Use `2C` after a jump-in (e.g., `jB` > `2C`). 
@@ -140,6 +163,23 @@ Primary Anti-Airs:
 * `2B` (block) > `jB`
 * `2B`, `2A` (block) > `jB`
 * `cl.5D feint` (block) > `jB`
+
+
+## Anti-Air
+> Use Dash > 623C Break to anti-air from afar
+
+* `5A`
+* `623A`
+* `623C Break`
+* `2C`
+* `down+C+REV`
+* `far 5D`
+
+## 214P Counter
+* `214A / 214PP`: Counters Highs and Rev Blows. 
+* `214C`: Counters Lows.
+* `214PP`: more active frames; cancels to Rev Arts.
+
 
 
 ## Okizeme
@@ -167,7 +207,7 @@ Corner:
 
 Corner:
 * `Throw` > `214C` > `whiff 5A` > `6A`
-* `Throw` > `fwd short jump` > `fwd feint` > `2B`
+* `Throw` > `fwd short jump` > `feint` > `2B`
 
 #### Meaty - Overhead (C+REV)
 * `Throw` > `dash` > `dash` > `C+REV`
@@ -185,30 +225,7 @@ Corner:
 
 
 
-## Frametraps
-
-#### All ranges
-* `2C, 236A` > `far 5C`
-* `cl.5B` > `TAP-PP` or `623C`
-* `2C` > `TAP-P`
-* `236PP, 214PP` > `2A`
-* `236PP, 214PP` > `623C`
-#### Midscreen
-* `5A, 5A` > `far 5C`
-#### Corner
-* `5A, 5A, 5A` > `far 5C`
-
-
-## Guard Crush
-> hit-confirm with `dash` > `cl.5D` or `2C`.
-> ❌ = There's a gap vulnerable to invincible reversals
-* `2B,2B,5A` ❌ `236PP,236KK` > `REV Blow`
-* `cl.5D` > `TAP-PP,236PP,236KK` ❌ `REV Blow`
-* `cl.5D` > `TAP-PP,214PP` > `5A,2B,5B` > `236236A`
-
-
 ## Hit confirms
-![Description](https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/04/marco-performing-his-c-hp-in-fatal-fury-city-of-the-wolves.jpeg)
 
 
 #### Standing Confirms
@@ -288,26 +305,3 @@ Corner:
 #### Corner (2 Meters)
 * 592 dmg: `cl.5D feint` > `2C` > `236PP` > `Rev Blow` > `623C Break` > `623PP Break` > `236D Break` > `236236A` > `236236B`
 * 657 dmg (counter): `cl.5D feint x2` > `2C` > `236D Break` > `623C Break` > `236PP, 623PP Break` > `236236A` > `236236B`
-
-
-
-## Misc
-#### Pressure
-* `jump D` > `dash` > `2A`
-* `cl.5D feint` > `2A` > `236C`
-* `cl.5D` > `feint` > `2C (anti-throw)`
-* `cl.5D` > `feint` > `5A,5A`
-#### Movement
-* `short dash` > `214C`
-#### REV blow (ground) juggle
-* `623A` or `623PP Break`
-
-#### Crosscut inputs
-> input when the opponent is above your head.
-
-* DP: `Hold fwd` > `214C Break` 
-* Super 236236K : `Hold REV` > `236` > `214K`
-* Counter (214P) : `Hold fwd` > `236A`
-
-#### 2A/2C > 623P input
-* `3A/3C` > `64123P (fwd > hcf motion)` 
