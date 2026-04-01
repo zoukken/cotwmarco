@@ -157,7 +157,17 @@ Corner:
 > Hit Confirm a meaty overhead with 2C.
 * `236236A` > `whiff 236D` > `short dash` > `6A`
 * `Throw` > `fwd normal jump` > `6A`
-* Corner: `Throw` > `whiff 5C` > `dash` > `6A`
+
+Corner:
+* `Throw` > `whiff 5C` > `dash` > `6A`
+
+#### High/low mixups
+* `Rev Blow` > `236D whiff` > `dash` > `6A`
+* `REV Blow` > `236D whiff` > `214C` > `2B`
+
+Corner:
+* `Throw` > `214C` > `whiff 5A` > `6A`
+* `Throw` > `fwd short jump` > `fwd feint` > `2B`
 
 #### Meaty - Overhead (C+REV)
 * `Throw` > `dash` > `dash` > `C+REV`
@@ -165,18 +175,6 @@ Corner:
 * `Throw` > `whiff 236B Break` > `C+REV`
 * `Back Throw` > `C+REV`
 * `236236P` > `whiff 236D` > `C+REV`
-
-
-
-#### REV Blow - High/low mixups
-* `Rev Blow` > `236D whiff` > `dash` > `6A`
-* `REV Blow` > `236D whiff` > `214C` > `2B`
-
-#### Corner - High/low mixups
-* `Throw` > `214C` > `whiff 5A` > `6A`
-* `Throw` > `214C` > `whiff 5B` > `2B`
-* `Forward jump C` > `6A`
-* `Forward jump B` > `5A whiff` > `2B`
 
 #### Safe Jumps
 * `236KK` > `REV Blow` > `feint` > `fwd jD` 
