@@ -119,13 +119,10 @@ Primary Anti-Airs:
 ## TAP
 > Useful for frametraps and combo extensions.
 > `TAP-KK` is the fastest version.
-
-| Move | On Block |
-| :--- | :--- |
-| TAP-P | -4 |
-| TAP-PP | +4 |
-| TAP-K | 0 / -4 / -9 |
-| TAP-KK | -2 / -4 / -10 |
+* `TAP-P`: -4F ob
+* `TAP-PP`: +4F ob
+* `TAP-K`: 0F/-4F/-9F ob
+* `TAP-KK`: -2F/-4F/-10F ob
 
 
 
@@ -145,7 +142,6 @@ Primary Anti-Airs:
 * `cl.5D feint` (block) > `jB`
 
 
-
 ## Okizeme
 > Use them on HKD (Throw, Rev Blow, Supers or 2D). 
 #### Meaty - All ranges
@@ -163,6 +159,7 @@ Primary Anti-Airs:
 * `Throw` > `whiff 5C` > `dash` > `6A`
 #### Meaty - Overhead (C+REV)
 * `Throw` > `dash` > `dash` > `C+REV`
+* `Throw` > `fwd short jump` > `C+REV`
 * `Throw` > `whiff 236B Break` > `C+REV`
 * `Back Throw` > `C+REV`
 * `236236P` > `whiff 236D` > `C+REV`
@@ -305,12 +302,12 @@ Primary Anti-Airs:
 #### REV blow (ground) juggle
 * `623A` or `623PP Break`
 
-#### Crosscut inputs: 
+#### Crosscut inputs
 > input when the opponent is above your head.
 
 * DP: `Hold fwd` > `214C Break` 
 * Super 236236K : `Hold REV` > `236` > `214K`
 * Counter (214P) : `Hold fwd` > `236A`
 
-#### 2A/2C > 623P input:
+#### 2A/2C > 623P input
 * `3A/3C` > `64123P (fwd > hcf motion)` 
