@@ -144,19 +144,20 @@ Primary Anti-Airs:
 
 ## Okizeme
 > Use them on HKD (Throw, Rev Blow, Supers or 2D). 
-#### Meaty - All ranges
+#### Meaty - Normals
+All ranges : 
 * `236236A` > `236D whiff` > `dash` > `cl.5D`
-
-#### Meaty - Corner
+Corner:
 * `Throw` > `C+REV whiff` > `cl.5D`
 * `REV blow` > `whiff 623C` > `cl.5C/5D`
 
 #### Meaty - Overhead (6A)
 > 6A meaty creates a 50% mixup (6A or Feint > 2B).
 > Hit Confirm a meaty overhead with 2C.
-* `Throw` > `whiff 236B break` > `6A`
-* `236236A` > `whiff 236D` > `dash` > `6A`
-* `Throw` > `whiff 5C` > `dash` > `6A`
+* `236236A` > `whiff 236D` > `short dash` > `6A`
+* `Throw` > `fwd normal jump` > `6A`
+* Corner: `Throw` > `whiff 5C` > `dash` > `6A`
+
 #### Meaty - Overhead (C+REV)
 * `Throw` > `dash` > `dash` > `C+REV`
 * `Throw` > `fwd short jump` > `C+REV`
