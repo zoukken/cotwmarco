@@ -1,0 +1,316 @@
+# Character Strategy Guide
+
+## Overview
+| Strengths | Weaknesses |
+| :--- | :--- |
+| ✅ Full screen super (236236P) | ❌ No pokes (except far 5B > Super) |
+| ✅ Fast and cancelable Dash | ❌ Few hit confirms from afar |
+| ✅ Special counter | |
+| ✅ Projectiles | |
+
+## Frame Data
+
+<details>
+  <summary>SHOW/HIDE</summary>
+  
+### Normals
+| Move | Guard | Startup | Block | Damage | Rev Dmg |
+| --- | --- | --- | --- | --- | --- |
+| Far A | Mid | 6 | 0 | 35 | 3% |
+| Far B | Mid | 8 | -4 | 40 | 4% |
+| Far C | Mid | 10 | -4 | 90 | 9% |
+| Far D | Mid | 11 | -3 | 85 | 8% |
+| Close A | Mid | 4 | +1 | 30 | 3% |
+| Close B | Mid | 7 | +3 | 40 | 4% |
+| Close C | Mid | 9 | -8 | 70 | 7% |
+| Close D | Mid | 10 | -2 | 75 | 7% |
+| 2A | Mid | 5 | -1 | 30 | 3% |
+| 2B | Low | 6 | -1 | 25 | 2% |
+| 2C | Mid | 6 | -10 | 70 | 7% |
+| 2D | Low | 11 | -11 | 100 | 10% |
+| Jump A | High | 6 | - | 45 | 4% |
+| Jump B | High | 7 | - | 35 | 3% |
+| Jump C | High | 9 | - | 90 | 9% |
+| Jump D | High | 9 | - | 90 | 8% |
+| Forward Throw | - | 5 | - | 120 | - |
+| Back Throw | - | 5 | - | 120 | - |
+| High Dodge | Mid | 10 | -6 | 50 | 5% |
+| Low Dodge | High | 25 | -2 | 80 | 8% |
+
+### Commands normals
+| Move | Guard | Startup | Block | Damage | Rev Dmg |
+| --- | --- | --- | --- | --- | --- |
+| 6A | High | 19 | -8 | 50 | - |
+| cl.C,D,D | Mid | 9 | -8 | 143 | - |
+| j.B,A | High | 7 | - | 77 | - |
+| CD | Mid | 17 | -3 | 127 | 10% |
+| CD,P (Interrupt) | Mid | 9 | -3 | 82 | 10% |
+| j.CD | Mid | 21 | -2 | 132 | 10% |
+
+### Specials
+| Move | Guard | Startup | Block | Damage | Rev Dmg |
+| --- | --- | --- | --- | --- | --- |
+| 236A | Mid | 13 | -6 | 60 | 6% |
+| 236C | Mid | 16 | -5 | 60 | 6% |
+| 236AC | Mid | 17 | 0 | 100 | 10% |
+| 623A | Mid | 5 | -34 | 70 | 7% |
+| 623C | Mid | 7 | -44 | 70 | 7% |
+| 623C Break | Mid | 7 | -2 | 70 | 7% |
+| 623AC | Mid | 6 | -43 | 70 | 8% |
+| 623AC Break | Mid | 6 | -2 | 80 | 8% |
+| 236B | Mid | 13 | -17~-8 | 90 | 3% |
+| 236B Break | - | - | - | - | - |
+| 236D | Mid | 13 | -24 | 120 | 5% |
+| 236D Break | Mid | 13 | - | 50 | 5% |
+| 236BD | Mid | 11 | -8~-9 | 120 | 12% |
+| 236 BD Break | Mid | 11 | -2 | 70 | 7 |
+| 214A | Mid | - | - | 140 | - |
+| 214C | Mid | - | - | 160 | - |
+| 214AC | - | - | - | 100 | - |
+| TAP P | Mid | 19 | -4 | 80 | 8% |
+| TAP AC | Mid | 15 | +4 | 90 | 9% |
+| TAP K | Mid | 15 | -9~0 | 80 | 8% |
+| TAP BD | Mid | 13 | -10~-1 | 90 | 9% |
+
+### Supers
+| Move | Guard | Startup | Block | Damage | Rev Dmg |
+| --- | --- | --- | --- | --- | --- |
+| 236236A | Mid | 8 | -22~-5 | 250 | 25% |
+| 236236B | Mid | 7 | -76 | 220 | 9% |
+| 236236C | Mid | 7 | -27~-42 | 310 | 31% |
+| 236236D | Mid | 6 | -69 | 320 | 15% |
+| 236236REV | Mid | 6 | -35~-31 | 434 | 1% |
+  
+</details>
+
+
+## Super usage
+> Damage tier: `REV` > `D` > `C` > `B` > `A`
+> Confirm into a Super from at most 3 lights
+
+* `236236A` as main super (confirm)
+* `236236A/C` punish from afar
+* `Far 5B/5D/5C` are super-cancelable
+* `236236A/D/REV` are 6F
+* `236236B/D/REV` are invincible
+
+
+## Anti-Air
+> Use Dash > 623C to anti-air from afar
+
+Primary Anti-Airs: 
+* `623A` & `623C Break`
+* `2C`
+* `far 5D`.
+
+
+## Break
+
+> 623C/PP Break on block leaves at throw range.
+> Bait a throw with a short jD or backdash 5B.
+
+* `623C Break`: Combo tool; -2 on block.
+* `236D Break`: Combo tool.
+* `236KK Break`: Breaks on 2nd hit; -2 on block.
+* `236B Break`: Whiff only; used for meaty setups.
+
+
+
+## TAP
+> Useful for frametraps and combo extensions.
+> `TAP-KK` is the fastest version.
+
+| Move | On Block |
+| :--- | :--- |
+| TAP-P | -4 |
+| TAP-PP | +4 |
+| TAP-K | 0 / -4 / -9 |
+| TAP-KK | -2 / -4 / -10 |
+
+
+
+## 214P Counter
+* `214A / 214PP`: Counters Highs and Rev Blows. 
+* `214C`: Counters Lows.
+* `214PP`: more active frames; cancels to Rev Arts.
+
+
+## Jumps & Crossups
+> Use `2C` after a jump-in (e.g., `jB` > `2C`). 
+> Hit confirm `jD/jC` into `cl.5C` (must hit deep).
+
+### Crossup Setups
+* `2B` (block) > `jB`
+* `2B`, `2A` (block) > `jB`
+* `cl.5D feint` (block) > `jB`
+
+
+
+## Okizeme
+> Use them on HKD (Throw, Rev Blow, Supers or 2D). 
+#### Meaty - All ranges
+* `236236A` > `236D whiff` > `dash` > `cl.5D`
+
+#### Meaty - Corner
+* `Throw` > `C+REV whiff` > `cl.5D`
+* `REV blow` > `whiff 623C` > `cl.5C/5D`
+
+#### Meaty - Overhead (6A)
+> 6A meaty creates a 50% mixup (6A or Feint > 2B).
+> Hit Confirm a meaty overhead with 2C.
+* `Throw` > `whiff 236B break` > `6A`
+* `236236A` > `whiff 236D` > `dash` > `6A`
+* `Throw` > `whiff 5C` > `dash` > `6A`
+#### Meaty - Overhead (C+REV)
+* `Throw` > `dash` > `dash` > `C+REV`
+* `Throw` > `whiff 236B Break` > `C+REV`
+* `Back Throw` > `C+REV`
+* `236236P` > `whiff 236D` > `C+REV`
+
+
+
+#### REV Blow - High/low mixups
+* `Rev Blow` > `236D whiff` > `dash` > `6A`
+* `REV Blow` > `236D whiff` > `214C` > `2B`
+
+#### Corner - High/low mixups
+* `Throw` > `214C` > `whiff 5A` > `6A`
+* `Throw` > `214C` > `whiff 5B` > `2B`
+* `Forward jump C` > `6A`
+* `Forward jump B` > `5A whiff` > `2B`
+
+#### Safe Jumps
+* `236KK` > `REV Blow` > `feint` > `fwd jD` 
+* `236KK` > `REV Blow` > `2B` > `fwd jC` 
+* `236236B` > `214A` > `fwd short jD` 
+* `236236A` > `214C` > `dash fwd jD`
+* `236KK` > `REV Blow` > `dash fwd jD` (corner)
+
+
+
+## Frametraps
+
+#### All ranges
+* `2C, 236A` > `far 5C`
+* `cl.5B` > `TAP-PP` or `623C`
+* `2C` > `TAP-P`
+* `236PP, 214PP` > `2A`
+* `236PP, 214PP` > `623C`
+#### Midscreen
+* `5A, 5A` > `far 5C`
+#### Corner
+* `5A, 5A, 5A` > `far 5C`
+
+
+## Guard Crush
+> hit-confirm with `dash` > `cl.5D` or `2C`.
+> ❌ = There's a gap vulnerable to invincible reversals
+* `2B,2B,5A` ❌ `236PP,236KK` > `REV Blow`
+* `cl.5D` > `TAP-PP,236PP,236KK` ❌ `REV Blow`
+* `cl.5D` > `TAP-PP,214PP` > `5A,2B,5B` > `236236A`
+
+
+## Hit confirms
+![Description](https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/04/marco-performing-his-c-hp-in-fatal-fury-city-of-the-wolves.jpeg)
+
+
+#### Standing Confirms
+* `5A, 5A` > `236C/B` 
+* `5A, 5A` > `623C Break`
+* `5A, 5A, 5A` > `236KK`
+* `2B, 2B, 2A` > `236KK`    
+* `cl.5B` > `2C` > ...
+* `cl.5D feint` > `2C` > ...
+
+#### Low Confirms
+* `2B, 5B` > `623C Break`
+* `2B, 2B, 2A` > `236B` OR `236KK`
+* `2B, 2B, 5B` > `Super`
+
+#### Specials
+* `623C Break` > `623PP Break`
+* `623C Break` > `236D Break`
+* `623C Break` > `Super`
+* `236D Break` > `236KK` OR `Super`
+* `236PP, 214PP` > `623C Break`
+* `236PP` > `623PP Break`
+* `TAP-PP, 236PP, 214PP` > `623C Break`
+
+
+
+## Counter Hit
+
+#### Standard Counter Hit
+* `5A` > `2C`
+* `far 5D` > `5C`
+* `cl.5D feint` > `cl.5D feint` > `2C`
+* `236KK Break` > `2C`
+* `TAP-P` > `2C`
+
+#### Launcher / Juggle (Counter Hit)
+* `623C/PP Break` > `dash` > `623C Break`
+* `236D Break` > `dash` > `623C Break`
+* `TAP-K` > `236PP, 214PP` > `623C Break`
+
+#### Overhead 6A (Counter Hit)
+* `6A` > `2C`
+* `6A` > `623C`
+
+#### 214PP (Counter Hit)
+* `214PP, TAP-PP, 236KK`
+
+#### Wild Punish
+* `far 5C` > `dash` > `623C Break` OR `2C`
+* `far 5D` > `dash` > `cl.5C`
+* `2D` > `236236P` (OTG)
+
+#### Overhead 6A
+> **Data:** -8 on block / -7 if meaty.
+* `6A` > `2A` > `236B`
+* `6A` > `2A` > `5B` > `Super`
+* `6A` > `623A`
+* Standing Only: `6A` > `2A` > `236D Break`
+
+#### 214P (Counter)
+* `214PP` > `236PP, 214PP, 623C Break`
+* `214P` > `623C Break`
+
+
+
+## Bnb's
+
+#### All Ranges (1 Meter)
+* 292 dmg: `623C Break` > `623PP Break` > `236D whiff` > `236236B`
+* 345 dmg: `623C Break` > `623PP Break` > `236PP, TAP-KK` > `236236B`
+* 355 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP-PP, 236PP, 214PP` > `236236B`
+
+#### Corner (1 Meter)
+* 355 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP PP, 236PP` > `236236P`
+* 359 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP-PP, 236PP, 236KK Break` > `236236B`
+
+#### Corner (2 Meters)
+* 592 dmg: `cl.5D feint` > `2C` > `236PP` > `Rev Blow` > `623C Break` > `623PP Break` > `236D Break` > `236236A` > `236236B`
+* 657 dmg (counter): `cl.5D feint x2` > `2C` > `236D Break` > `623C Break` > `236PP, 623PP Break` > `236236A` > `236236B`
+
+
+
+## Misc
+#### Pressure
+* `jump D` > `dash` > `2A`
+* `cl.5D feint` > `2A` > `236C`
+* `cl.5D` > `feint` > `2C (anti-throw)`
+* `cl.5D` > `feint` > `5A,5A`
+#### Movement
+* `short dash` > `214C`
+#### REV blow (ground) juggle
+* `623A` or `623PP Break`
+
+#### Crosscut inputs: 
+> input when the opponent is above your head.
+
+* DP: `Hold fwd` > `214C Break` 
+* Super 236236K : `Hold REV` > `236` > `214K`
+* Counter (214P) : `Hold fwd` > `236A`
+
+#### 2A/2C > 623P input:
+* `3A/3C` > `64123P (fwd > hcf motion)` 
