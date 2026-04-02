@@ -300,6 +300,14 @@
       margin: 16px 0;
       overflow-x: auto;
     }
+
+    #content details li, #content details ul {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+
+    
+
     #content summary {
       font-family: var(--mono);
       font-size: .75rem;
@@ -315,6 +323,17 @@
     #content details[open] summary { border-bottom: 1px solid var(--border); }
     #content details > *:not(summary) { padding: 0 18px 18px; }
     #content details table { margin-top: 16px; }
+
+
+    #section-1 + details > *:not(summary), #section-1 + details[open] summary {
+      border: none;
+      padding-bottom: 0;
+      padding-top: 0;
+    }
+     #section-1 + details[open]  {
+      padding-top: 16px;
+    }
+
 
     /* HR */
     #content hr {
@@ -443,7 +462,7 @@
       'Jumps & Crossups': 'Attack',
       'Anti-Air': 'Defense',
       '214P Counter': 'Defense',
-      'Okizeme': 'Okizeme',
+      'Okizeme': 'Attack',
       'Hit confirms': 'Combos',
       'Counter Hit': 'Combos',
       'Bnb\'s': 'Combos',
@@ -454,17 +473,9 @@
 
     // Overview link
     const overviewLink = document.createElement('a');
-    overviewLink.className = 'nav-link';
-    overviewLink.href = '#';
-    overviewLink.textContent = '↑ Top';
     overviewLink.onclick = e => { e.preventDefault(); window.scrollTo({top:0,behavior:'smooth'}); };
 
     const overviewSec = document.createElement('div');
-    overviewSec.className = 'nav-section';
-    const overviewTitle = document.createElement('div');
-    overviewTitle.className = 'nav-section-title';
-    overviewTitle.textContent = 'Navigation';
-    overviewSec.appendChild(overviewTitle);
     overviewSec.appendChild(overviewLink);
     navEl.appendChild(overviewSec);
 

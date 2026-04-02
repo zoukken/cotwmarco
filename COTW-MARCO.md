@@ -2,7 +2,6 @@
 
 ![Description](https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/04/marco-performing-his-c-hp-in-fatal-fury-city-of-the-wolves.jpeg)
 
-## Overview
 | Strengths | Weaknesses |
 | :--- | :--- |
 | ✅ Full screen super (236236P) | ❌ No pokes (except far 5B > Super) |
@@ -15,7 +14,7 @@
 <details>
   <summary>SHOW/HIDE</summary>
   
-| Move | Guard | Startup | Block | Damage | Rev Dmg |
+| Move | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | Far A | Mid | 6 | 0 | 35 | 3% |
 | Far B | Mid | 8 | -4 | 40 | 4% |
@@ -33,21 +32,21 @@
 | Jump B | High | 7 | - | 35 | 3% |
 | Jump C | High | 9 | - | 90 | 9% |
 | Jump D | High | 9 | - | 90 | 8% |
-| Forward Throw | - | 5 | - | 120 | - |
+| Throw | - | 5 | - | 120 | - |
 | Back Throw | - | 5 | - | 120 | - |
 | High Dodge | Mid | 10 | -6 | 50 | 5% |
 | Low Dodge | High | 25 | -2 | 80 | 8% |
 
-| Move | Guard | Startup | Block | Damage | Rev Dmg |
+| Move | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 6A | High | 19 | -8 | 50 | - |
-| cl.C,D,D | Mid | 9 | -8 | 143 | - |
+| C,D,D | Mid | 9 | -8 | 143 | - |
 | j.B,A | High | 7 | - | 77 | - |
 | CD | Mid | 17 | -3 | 127 | 10% |
-| CD,P (Interrupt) | Mid | 9 | -3 | 82 | 10% |
+| CD,P | Mid | 9 | -3 | 82 | 10% |
 | j.CD | Mid | 21 | -2 | 132 | 10% |
 
-| Move | Guard | Startup | Block | Damage | Rev Dmg |
+| Move | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 236A | Mid | 13 | -6 | 60 | 6% |
 | 236C | Mid | 16 | -5 | 60 | 6% |
@@ -57,29 +56,119 @@
 | 623C Break | Mid | 7 | -2 | 70 | 7% |
 | 623AC | Mid | 6 | -43 | 70 | 8% |
 | 623AC Break | Mid | 6 | -2 | 80 | 8% |
-| 236B | Mid | 13 | -17~-8 | 90 | 3% |
+| 236B | Mid | 13 | -17 | 90 | 3% |
 | 236B Break | - | - | - | - | - |
 | 236D | Mid | 13 | -24 | 120 | 5% |
 | 236D Break | Mid | 13 | - | 50 | 5% |
-| 236BD | Mid | 11 | -8~-9 | 120 | 12% |
+| 236BD | Mid | 11 | -9 | 120 | 12% |
 | 236 BD Break | Mid | 11 | -2 | 70 | 7 |
 | 214A | Mid | - | - | 140 | - |
 | 214C | Mid | - | - | 160 | - |
 | 214AC | - | - | - | 100 | - |
 | TAP P | Mid | 19 | -4 | 80 | 8% |
 | TAP AC | Mid | 15 | +4 | 90 | 9% |
-| TAP K | Mid | 15 | -9~0 | 80 | 8% |
-| TAP BD | Mid | 13 | -10~-1 | 90 | 9% |
+| TAP K | Mid | 15 | -9 | 80 | 8% |
+| TAP BD | Mid | 13 | -10 | 90 | 9% |
 
-| Move | Guard | Startup | Block | Damage | Rev Dmg |
+| Move | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
-| 236236A | Mid | 8 | -22~-5 | 250 | 25% |
+| 236236A | Mid | 8 | -22 | 250 | 25% |
 | 236236B | Mid | 7 | -76 | 220 | 9% |
-| 236236C | Mid | 7 | -27~-42 | 310 | 31% |
+| 236236C | Mid | 7 | -42 | 310 | 31% |
 | 236236D | Mid | 6 | -69 | 320 | 15% |
-| 236236REV | Mid | 6 | -35~-31 | 434 | 1% |
+| REV | Mid | 6 | -35 | 434 | 1% |
   
 </details>
+
+## Matchups
+
+<details>
+  <summary>SHOW/HIDE</summary>
+
+<details>
+  <summary>Rock</summary>
+
+- `Special jump crossup` TO DO ... How to punish ?
+- `EX Palm (214PP)` Hyper defend the 2nd hit, then punish 
+</details>
+
+
+<details>
+  <summary>Terry</summary>
+
+- `214PP,214KK/236PP blockstring` 
+  - No matter the spacing or Terry’s follow up, punish after 214PP with 236236C.
+  - You can also punish with 623P, but it depends on the spacing or Terry’s follow-up.
+</details>
+
+
+<details>
+  <summary>Hotaru</summary>
+
+- `Divekick` All versions are unsafe , punish at close range with 2C
+- `Command grab` All version aren't invincible. Punish the statup with jab or throw.
+- `Reflect (214K)` Be patient on block its not your turn to play. 
+  - `214B` -2F Ob
+  - `214D` +2F Ob 
+  - `214KK` +2F Ob
+- `Turn around punch (214P)` 
+  - Punish normal version with 2A.
+  - Be careful with EX version as she can follow up with 214K (Frametrap) : counter with hyper défense.
+</details>
+
+<details>
+  <summary>Salvatore</summary>
+
+- `Forward HP (2hit)`
+  - Plus on block. 
+  - The 1st hit always whiff. Stay crouch then punish quickly with 2C (wild punish).
+</details>
+
+
+<details>
+  <summary>Billy kane</summary>
+
+- `Spenpu Kon (623P)`
+  - Normal version is unsafe -20F Ob
+  - EX version is plus, use hyper defense 
+
+- `Long range stick`
+  - safe from afar, use JD > 236KK 
+  - JD x2 against normal version
+  - JD x4 against EX version 
+</details>
+
+
+<details>
+  <summary>Hokutomaru</summary>
+
+- He dosent have a 5F special reversal.
+- `Kunai projectile` Stop it with 2A
+- `Elbow and hopkick break` -2F Ob, if he has meter, just wait.
+- `Rasengan super` Hyper defend then JD all hits before punishing (more meter gain).
+- `REV Blow` Punish after the 1st hit with 5A > 236D
+- `Teleport` Punish with down+C+REV > 236D break > 236KK
+</details>
+
+
+<details>
+  <summary>Dong Hwan</summary>
+
+- `Standing low special` 
+  - Light version don't hit low and is -2F Ob
+  - Heavy version is -6F Ob, punish with 5A > 623C
+- `Divekick` 
+  - Not overhead and plus on block (-2F at worst)
+  - It’s multi-hit so you can hyper-defend. 
+- `Lightning kicks` all version are unsafe, punish with 623C 
+- `Overhead hopkick` -2F Ob at worst. Use high dodge on it’s startup
+- `Supers` His super are not overhead despite the animation.
+</details>
+
+</details>
+
+
+
 
 
 
@@ -96,34 +185,49 @@
 
 #### Crosscut inputs
 > input when the opponent is above your head.
-
 * DP: `Hold fwd` > `214C Break` 
-* Super 236236K : `Hold REV` > `236` > `214K`
-* Counter (214P) : `Hold fwd` > `236A`
+* Super 236236K: `Hold REV` > `236` > `214K`
+* Counter (214P): `Hold fwd` > `236A`
 
 #### 2A/2C > 623P input
 * `3A/3C` > `64123P (fwd > hcf motion)` 
+
+## Anti-Air
+> Use Dash > 623C Break to anti-air from afar
+
+* `5A`
+* `623A`
+* `623C Break`
+* `2C`
+* `down+C+REV`
+* `far 5D`
+
+## 214P Counter
+* `214A / 214PP` Counters Highs and Rev Blows. 
+* `214C` Counters Lows.
+* `214PP` more active frames; cancels to Rev Arts.
+
 
 
 ## Supers
 > Damage tier: `REV` > `D` > `C` > `B` > `A`
 > Confirm into a Super from at most 3 lights
 
-* `236236A` as main super (confirm)
-* `236236A/C` punish from afar
+* `236236A/B` Main super confirm
+* `236236A/C` Punish from afar
 * `Far 5B/5D/5C` are super-cancelable
-* `236236A/D/REV` are 6F
-* `236236B/D/REV` are invincible
+* `236236A/D/REV` 6F Startup
+* `236236B/D/REV` Invincible
 
 ## Break
 
 > 623C/PP Break on block leaves at throw range.
 > Bait a throw with a short jD or backdash 5B.
 
-* `623C Break`: Combo tool; -2 on block.
-* `236D Break`: Combo tool.
-* `236KK Break`: Breaks on 2nd hit; -2 on block.
-* `236B Break`: Whiff only; used for meaty setups.
+* `623C Break` Combo tool; -2 on block.
+* `236D Break` Combo tool.
+* `236KK Break` Breaks on 2nd hit; -2 on block.
+* `236B Break` Whiff only; used for meaty setups.
 
 
 
@@ -157,28 +261,13 @@
 
 ## Jumps & Crossups
 > Use `2C` after a jump-in (e.g., `jB` > `2C`). 
-> Hit confirm `jD/jC` into `cl.5C` (must hit deep).
+> You can also hit-confirm `jD/jC` into `cl.5C` (must hit deep).
 
 ### Crossup Setups
 * `2B` (block) > `jB`
 * `2B`, `2A` (block) > `jB`
 * `cl.5D feint` (block) > `jB`
 
-
-## Anti-Air
-> Use Dash > 623C Break to anti-air from afar
-
-* `5A`
-* `623A`
-* `623C Break`
-* `2C`
-* `down+C+REV`
-* `far 5D`
-
-## 214P Counter
-* `214A / 214PP`: Counters Highs and Rev Blows. 
-* `214C`: Counters Lows.
-* `214PP`: more active frames; cancels to Rev Arts.
 
 
 
@@ -288,8 +377,6 @@ Corner:
 #### 214P (Counter)
 * `214PP` > `236PP, 214PP, 623C Break`
 * `214P` > `623C Break`
-
-
 
 ## Bnb's
 
