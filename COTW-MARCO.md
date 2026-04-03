@@ -1,11 +1,11 @@
 # Character Strategy Guide
 
-![Description](https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/04/marco-performing-his-c-hp-in-fatal-fury-city-of-the-wolves.jpeg)
+![Description](https://www.jeuxactu.com/datas/jeux/f/a/fatal-fury-city-of-the-wolves/vn/fatal-fury-city-of-the-wo-663805356aed1.jpg)
 
 | Strengths | Weaknesses |
 | :--- | :--- |
-| ✅ Full screen super (236236P) | ❌ No pokes (except far 5B > Super) |
-| ✅ Fast and cancelable Dash | ❌ Few hit confirms from afar |
+| ✅ Full screen super (236236P) | ❌ Weak mid-range |
+| ✅ Fast and cancelable Dash | ❌ No reliable pokes (except far 5B > Super) |
 | ✅ Special counter | |
 | ✅ Projectiles | |
 
@@ -77,7 +77,7 @@
 | 236236C | Mid | 7 | -42 | 310 | 31% |
 | 236236D | Mid | 6 | -69 | 320 | 15% |
 | REV | Mid | 6 | -35 | 434 | 1% |
-  
+
 </details>
 
 ## Matchups
@@ -85,62 +85,80 @@
 <details>
   <summary>SHOW/HIDE</summary>
 
-<details>
-  <summary>Rock</summary>
+<div class="character-select">
+  <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_rock.png" data-target="info-rock">
+  <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_terry.png" data-target="info-terry">
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_janet.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_marco.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_preecha.png"> -->
+  <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_hotaru.png" data-target="info-hotaru">
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_vox.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_tizoc.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_kevin.png"> -->
+  <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_billy.png" data-target="info-billy">
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_mai.png"> -->
+  <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_donghwan.png" data-target="info-donghwan">
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_gato.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_kain.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_cr7.png"> -->
+  <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_ganacci.png"  data-target="info-salvatore">
+  <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_hokutomaru.png" data-target="info-hokutomaru">
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_andy.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_ken.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_joe.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_chun-li.png"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_mrbig.webp"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_jaehoon.webp"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_geese.webp"> -->
+  <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_bluemary.webp"> -->
+</div>
 
-- `Special jump crossup` TO DO ... How to punish ?
-- `EX Palm (214PP)` Hyper defend the 2nd hit, then punish 
-</details>
+<div id="info-rock" class="content-div">
+  <h3>Rock Howard</h3>
+  
+  - `214K,A (jump crossup)` Stop it with 5A/2C > 236D
+  - `EX Palm (214PP)` Hyper defend the 2nd hit, then punish 
+</div>
 
-
-<details>
-  <summary>Terry</summary>
+<div id="info-terry" class="content-div">
+  <h3>Terry Bogard</h3>
 
 - `214PP,214KK/236PP blockstring` 
-  - No matter the spacing or Terry’s follow up, punish after 214PP with 236236C.
-  - You can also punish with 623P, but it depends on the spacing or Terry’s follow-up.
-</details>
+  - Punish right after 214PP with 236236C.
+  - You can also use 623P, but it depends on the spacing or Terry’s follow-up.
+</div>
 
 
-<details>
-  <summary>Hotaru</summary>
+<div id="info-hotaru" class="content-div">
+  <h3>Hotaru Futaba</h3>
 
 - `Divekick` All versions are unsafe , punish at close range with 2C
 - `Command grab` All version aren't invincible. Punish the statup with jab or throw.
 - `Reflect (214K)` Be patient on block its not your turn to play. 
-  - `214B` -2F Ob
-  - `214D` +2F Ob 
-  - `214KK` +2F Ob
 - `Turn around punch (214P)` 
   - Punish normal version with 2A.
   - Be careful with EX version as she can follow up with 214K (Frametrap) : counter with hyper défense.
-</details>
-
-<details>
-  <summary>Salvatore</summary>
-
-- `Forward HP (2hit)`
-  - Plus on block. 
-  - The 1st hit always whiff. Stay crouch then punish quickly with 2C (wild punish).
-</details>
+</div>
 
 
-<details>
-  <summary>Billy kane</summary>
+<div id="info-salvatore" class="content-div">
+  <h3>Salvatore Ganacci</h3>
 
-- `Spenpu Kon (623P)`
-  - Normal version is unsafe -20F Ob
-  - EX version is plus, use hyper defense 
-
-- `Long range stick`
-  - safe from afar, use JD > 236KK 
-  - JD x2 against normal version
-  - JD x4 against EX version 
-</details>
+- `far 5HP` Hits twice, plus on block, but the 1st hit whiff on crouch, whiff punish quickly with 2A/2C
+</div>
 
 
-<details>
-  <summary>Hokutomaru</summary>
+<div id="info-billy" class="content-div">
+  <h3>Billy Kane</h3>
+
+- `Roll stick (623P)` EX version is plus, use HD > 623A/214PP
+- `Long range stick (236P)` All version are -8F/-10 Ob. Safe from afar, uless if you use 236236C 
+- `High jump drop stick (236K)` Punish before landing with 623C Break
+</div>
+
+
+<div id="info-hokutomaru" class="content-div">
+  <h3>Hokutomaru</h3>
 
 - He dosent have a 5F special reversal.
 - `Kunai projectile` Stop it with 2A
@@ -148,11 +166,11 @@
 - `Rasengan super` Hyper defend then JD all hits before punishing (more meter gain).
 - `REV Blow` Punish after the 1st hit with 5A > 236D
 - `Teleport` Punish with down+C+REV > 236D break > 236KK
-</details>
+</div>
 
 
-<details>
-  <summary>Dong Hwan</summary>
+<div id="info-donghwan" class="content-div">
+  <h3>Kim Dong Hwan</h3>
 
 - `Standing low special` 
   - Light version don't hit low and is -2F Ob
@@ -163,13 +181,13 @@
 - `Lightning kicks` all version are unsafe, punish with 623C 
 - `Overhead hopkick` -2F Ob at worst. Use high dodge on it’s startup
 - `Supers` His super are not overhead despite the animation.
+</div>
+
+
 </details>
 
-</details>
 
-
-
-
+<!-- ############################################################# -->
 
 
 ## Tips
@@ -182,19 +200,18 @@
 * `short dash` > `214C`
 #### REV blow (ground) juggle
 * `623A` or `623PP Break`
-
 #### Crosscut inputs
-> input when the opponent is above your head.
+When the opponent is above your head :
 * DP: `Hold fwd` > `214C Break` 
 * Super 236236K: `Hold REV` > `236` > `214K`
 * Counter (214P): `Hold fwd` > `236A`
-
 #### 2A/2C > 623P input
-* `3A/3C` > `64123P (fwd > hcf motion)` 
+* `3A/3C` > `4123P` 
+#### Game mechanics
+* Hyper Defend : You must pass through the neutral position then hold forwward (Let go of the stick just before inputting forward)
 
 ## Anti-Air
 > Use Dash > 623C Break to anti-air from afar
-
 * `5A`
 * `623A`
 * `623C Break`
@@ -282,8 +299,7 @@ Corner:
 * `REV blow` > `whiff 623C` > `cl.5C/5D`
 
 #### Meaty - Overhead (6A)
-> 6A meaty creates a 50% mixup (6A or Feint > 2B).
-> Hit Confirm a meaty overhead with 2C.
+> 6A meaty creates a 50% mixup (6A or Feint > 2B). Hit Confirm a meaty overhead with 2C.
 * `236236A` > `whiff 236D` > `short dash` > `6A`
 * `Throw` > `fwd normal jump` > `6A`
 
@@ -368,7 +384,6 @@ Corner:
 * `2D` > `236236P` (OTG)
 
 #### Overhead 6A
-> **Data:** -8 on block / -7 if meaty.
 * `6A` > `2A` > `236B`
 * `6A` > `2A` > `5B` > `Super`
 * `6A` > `623A`
@@ -388,6 +403,8 @@ Corner:
 #### Corner (1 Meter)
 * 355 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP PP, 236PP` > `236236P`
 * 359 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP-PP, 236PP, 236KK Break` > `236236B`
+* 520 dmg (counter): `cl.5D feint x2` > `2C` > `623C Break` > `623PP Break` > `236PP, TAP-KK` > `236236B`
+* 552 dmg (corner): `cl.5D feint x2` > `2C` > `236D Break` > `623C Break` > `623PP Break` > `236PP, REV Blow` > `236236B`
 
 #### Corner (2 Meters)
 * 592 dmg: `cl.5D feint` > `2C` > `236PP` > `Rev Blow` > `623C Break` > `623PP Break` > `236D Break` > `236236A` > `236236B`

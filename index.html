@@ -324,6 +324,13 @@
     #content details > *:not(summary) { padding: 0 18px 18px; }
     #content details table { margin-top: 16px; }
 
+    #content details img {width: 100%; max-width: 55px; margin: 0; padding: 2px;}
+    .character-select {margin:5px;}
+    .content-div { display: none; margin-top: 15px; padding: 10px; border: 1px solid #ccc; }
+    .character-select img { width: 80px; cursor: pointer; margin: 5px; }
+    .character-select img:hover { background: var(--accent2); }
+    .character-select img.selected { background: var(--accent2);}
+    .active { display: block !important; }
 
     #section-1 + details > *:not(summary), #section-1 + details[open] summary {
       border: none;
@@ -540,9 +547,9 @@
 
       heroDiv.innerHTML += `
         <div class="hero-content">
-          <div class="hero-tag">Fatal Fury — City of the Wolves</div>
+          <div class="hero-tag">Fatal Fury · City of the Wolves</div>
           <div class="hero-title"><em>MARCO</em><br>RODRIGUEZ</div>
-          <div class="hero-sub">Framedata · Combos · Setups<br>Season 2</div>
+          <div class="hero-sub">Framedata · Matchups · Season 2</div>
         </div>
       `;
       content.insertBefore(heroDiv, content.firstChild);
@@ -557,6 +564,30 @@
         heroDiv.insertBefore(img, heroDiv.firstChild);
       }
     }
+
+    // Sélectionne toutes les images de la galerie
+    const images = document.querySelectorAll('.character-select img');
+const contents = document.querySelectorAll('.content-div');
+
+images.forEach(img => {
+  img.addEventListener('click', () => {
+    // 1. Nettoyage : On retire la classe 'active' des textes 
+    // ET la classe 'selected' de toutes les images
+    contents.forEach(div => div.classList.remove('active'));
+    images.forEach(i => i.classList.remove('selected'));
+
+    // 2. Activation de l'élément cliqué
+    img.classList.add('selected'); // L'image devient "active" visuellement
+
+    // 3. Affichage du texte correspondant
+    const targetId = img.getAttribute('data-target');
+    const targetDiv = document.getElementById(targetId);
+    if (targetDiv) {
+        targetDiv.classList.add('active');
+    }
+  });
+});
+
 
     // ── Remove leftover combo image (the second img) - keep it in place ──
     // Already handled by markdown rendering
