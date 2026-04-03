@@ -5,7 +5,7 @@
 | Strengths | Weaknesses |
 | :--- | :--- |
 | ✅ Full screen super (236236P) | ❌ Weak mid-range |
-| ✅ Fast and cancelable Dash | ❌ No reliable pokes (except far 5B > Super) |
+| ✅ Fast and cancelable Dash | ❌ No reliable pokes |
 | ✅ Special counter | |
 | ✅ Projectiles | |
 
@@ -14,7 +14,7 @@
 <details>
   <summary>SHOW/HIDE</summary>
   
-| Move | Guard | S | OB | DMG | REV |
+| Move | G | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | Far A | Mid | 6 | 0 | 35 | 3% |
 | Far B | Mid | 8 | -4 | 40 | 4% |
@@ -37,7 +37,7 @@
 | High Dodge | Mid | 10 | -6 | 50 | 5% |
 | Low Dodge | High | 25 | -2 | 80 | 8% |
 
-| Move | Guard | S | OB | DMG | REV |
+| Move | G | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 6A | High | 19 | -8 | 50 | - |
 | C,D,D | Mid | 9 | -8 | 143 | - |
@@ -46,37 +46,37 @@
 | CD,P | Mid | 9 | -3 | 82 | 10% |
 | j.CD | Mid | 21 | -2 | 132 | 10% |
 
-| Move | Guard | S | OB | DMG | REV |
+| Move | G | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 236A | Mid | 13 | -6 | 60 | 6% |
 | 236C | Mid | 16 | -5 | 60 | 6% |
-| 236AC | Mid | 17 | 0 | 100 | 10% |
+| 236PP | Mid | 17 | 0 | 100 | 10% |
 | 623A | Mid | 5 | -34 | 70 | 7% |
 | 623C | Mid | 7 | -44 | 70 | 7% |
 | 623C Break | Mid | 7 | -2 | 70 | 7% |
-| 623AC | Mid | 6 | -43 | 70 | 8% |
-| 623AC Break | Mid | 6 | -2 | 80 | 8% |
+| 623KK | Mid | 6 | -43 | 70 | 8% |
+| 623KK Break | Mid | 6 | -2 | 80 | 8% |
 | 236B | Mid | 13 | -17 | 90 | 3% |
 | 236B Break | - | - | - | - | - |
 | 236D | Mid | 13 | -24 | 120 | 5% |
 | 236D Break | Mid | 13 | - | 50 | 5% |
-| 236BD | Mid | 11 | -9 | 120 | 12% |
-| 236 BD Break | Mid | 11 | -2 | 70 | 7 |
+| 236KK | Mid | 11 | -9 | 120 | 12% |
+| 236KK Break | Mid | 11 | -2 | 70 | 7 |
 | 214A | Mid | - | - | 140 | - |
 | 214C | Mid | - | - | 160 | - |
-| 214AC | - | - | - | 100 | - |
-| TAP P | Mid | 19 | -4 | 80 | 8% |
-| TAP AC | Mid | 15 | +4 | 90 | 9% |
-| TAP K | Mid | 15 | -9 | 80 | 8% |
-| TAP BD | Mid | 13 | -10 | 90 | 9% |
+| 214PP | - | - | - | 100 | - |
+| TAP-P | Mid | 19 | -4 | 80 | 8% |
+| TAP-PP | Mid | 15 | +4 | 90 | 9% |
+| TAP-K | Mid | 15 | -9 | 80 | 8% |
+| TAP-KK | Mid | 13 | -10 | 90 | 9% |
 
-| Move | Guard | S | OB | DMG | REV |
+| Move | G | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 236236A | Mid | 8 | -22 | 250 | 25% |
 | 236236B | Mid | 7 | -76 | 220 | 9% |
 | 236236C | Mid | 7 | -42 | 310 | 31% |
 | 236236D | Mid | 6 | -69 | 320 | 15% |
-| REV | Mid | 6 | -35 | 434 | 1% |
+| 236236REV | Mid | 6 | -35 | 434 | 1% |
 
 </details>
 
