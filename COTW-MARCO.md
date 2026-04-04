@@ -5,7 +5,7 @@
 | Strengths | Weaknesses |
 | :--- | :--- |
 | ✅ Full screen super (236236P) | ❌ Weak mid-range |
-| ✅ Fast and cancelable Dash | ❌ No reliable pokes |
+| ✅ Fast and cancelable Dash | ❌ No reliable pokes (except far.5B > Super) |
 | ✅ Special counter | |
 | ✅ Projectiles | |
 
@@ -116,6 +116,7 @@
 <div id="info-rock" class="content-div">
   <h3>Rock Howard</h3>
   
+  - `236P fireball` At mid-range, use 236KK to pass through it.
   - `214K,A (jump crossup)` Stop it with 5A/2C > 236D
   - `EX Palm (214PP)` Hyper defend the 2nd hit, then punish 
 </div>
@@ -161,8 +162,8 @@
 - He dosent have a 5F special reversal.
 - `Kunai projectile` Stop it with 2A
 - `Elbow and hopkick break` -2F Ob, if he has meter, just wait.
-- `Rasengan super` Hyper defend then JD all hits before punishing (more meter gain).
-- `REV Blow` Punish after the 1st hit with 5A > 236D
+- `Rasengan super` HD then JD all hits before punishing (more meter gain).
+- `REV Blow` Block the 1st hit then punish with 5A > 236D
 - `Teleport` Punish with down+C+REV > 236D break > 236KK
 </div>
 
@@ -275,8 +276,8 @@ When the opponent is above your head :
 * `5A, 5A, 5A` > `far 5C`
 
 ## Jumps & Crossups
-> Use `2C` after a jump-in (e.g., `jB` > `2C`). 
-> You can also hit-confirm `jD/jC` into `cl.5C` (must hit deep).
+> Hit-confitm : jD/jC > cl.5C (must hit deep) or jB > 2C 
+> Note: You can't crossup with a short jump.
 
 ### Crossup Setups
 * `2B` (block) > `jB`
@@ -289,10 +290,10 @@ When the opponent is above your head :
 ## Okizeme
 > Use them on HKD (Throw, Rev Blow, Supers or 2D). 
 #### Meaty - Normals
-All ranges : 
+`All ranges:` 
 * `236236A` > `236D whiff` > `dash` > `cl.5D`
 
-Corner:
+`Corner:`
 * `Throw` > `C+REV whiff` > `cl.5D`
 * `REV blow` > `whiff 623C` > `cl.5C/5D`
 
@@ -301,16 +302,8 @@ Corner:
 * `236236A` > `whiff 236D` > `short dash` > `6A`
 * `Throw` > `fwd normal jump` > `6A`
 
-Corner:
+`Corner:`
 * `Throw` > `whiff 5C` > `dash` > `6A`
-
-#### High/low mixups
-* `Rev Blow` > `236D whiff` > `dash` > `6A`
-* `REV Blow` > `236D whiff` > `214C` > `2B`
-
-Corner:
-* `Throw` > `214C` > `whiff 5A` > `6A`
-* `Throw` > `fwd short jump` > `feint` > `2B`
 
 #### Meaty - Overhead (C+REV)
 * `Throw` > `dash` > `dash` > `C+REV`
@@ -324,8 +317,21 @@ Corner:
 * `236KK` > `REV Blow` > `2B` > `fwd jC` 
 * `236236B` > `214A` > `fwd short jD` 
 * `236236A` > `214C` > `dash fwd jD`
-* `236KK` > `REV Blow` > `dash fwd jD` (corner)
 
+`Corner:`
+* `236KK` > `REV Blow` > `dash fwd jD`
+
+#### High/low mixups
+* `REV Blow` > `236D whiff` > `dash` > `6A`
+* `REV Blow` > `236D whiff` > `214C` > `2B`
+
+`Corner:`
+* `Throw` > `214C` > `whiff 5A` > `6A`
+* `Throw` > `fwd short jump` > `feint` > `2B`
+
+#### Guard Cancel/Throw setups
+`Corner:`
+* `236236B` > `fwd normal jump` > `feint` > `63214~A+B` : Confirm with 6P if you see the JD animation  
 
 
 ## Hit confirms
