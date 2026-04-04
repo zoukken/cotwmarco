@@ -135,9 +135,7 @@
 - `Divekick` All versions are unsafe , punish at close range with 2C
 - `Command grab` All version aren't invincible. Punish the statup with jab or throw.
 - `Reflect (214K)` Be patient on block its not your turn to play. 
-- `Turn around punch (214P)` 
-  - Punish normal version with 2A.
-  - Be careful with EX version as she can follow up with 214K (Frametrap) : counter with hyper défense.
+- `Roll punch (214P)` Punish with 2A. She can follow up the EX version with 214K (Frametrap) : Use hyper défense.
 </div>
 
 
