@@ -9,7 +9,7 @@
 | ✅ Special counter | |
 | ✅ Projectiles | |
 
-## FrameData
+## Framedata
 
 <details>
   <summary>SHOW/HIDE</summary>
@@ -195,6 +195,7 @@
 * `cl.5D feint` > `2A` > `236C`
 * `cl.5D feint` > `2C (anti-throw)`
 * `cl.5D feint` > `5A,5A`
+
 #### Movement
 * `short dash` > `214C`
 #### REV blow (ground) juggle
@@ -212,9 +213,9 @@ When the opponent is above your head :
 ## Anti-Air
 > Use Dash > 623C Break to anti-air from afar
 * `5A`
-* `623A`
-* `623C Break`
+* `623A/623C Break`
 * `2C`
+* `236KK`
 * `down+C+REV`
 * `far 5D`
 
@@ -267,13 +268,15 @@ When the opponent is above your head :
 #### All ranges
 * `2C, 236A` > `far 5C`
 * `cl.5B` > `TAP-PP` or `623C`
+* `cl.5D` > `2C`
 * `2C` > `TAP-P`
 * `236PP, 214PP` > `2A`
 * `236PP, 214PP` > `623C`
-#### Midscreen
-* `5A, 5A` > `far 5C`
+* `jD` > `cl.5C`
+
 #### Corner
 * `5A, 5A, 5A` > `far 5C`
+* `5A, 5A` > `far 5C`
 
 ## Jumps & Crossups
 > Hit-confitm : jD/jC > cl.5C (must hit deep) or jB > 2C 
@@ -313,10 +316,11 @@ When the opponent is above your head :
 * `236236P` > `whiff 236D` > `C+REV`
 
 #### Safe Jumps
-* `236KK` > `REV Blow` > `feint` > `fwd jD` 
-* `236KK` > `REV Blow` > `2B` > `fwd jC` 
-* `236236B` > `214A` > `fwd short jD` 
-* `236236A` > `214C` > `dash fwd jD`
+* `236KK` > `REV Blow` > `feint` > `jD` 
+* `236KK` > `REV Blow` > `2B` > `jC` 
+* `236236B` > `214A` > `short jD` 
+* `236236A` > `214C` > `dash` > `jD`
+* `Throw` > `feint` > `jD`
 
 `Corner:`
 * `236KK` > `REV Blow` > `dash fwd jD`
@@ -335,8 +339,6 @@ When the opponent is above your head :
 
 
 ## Hit confirms
-
-
 #### Standing Confirms
 * `5A, 5A` > `236C/B` 
 * `5A, 5A` > `623C Break`
@@ -344,12 +346,10 @@ When the opponent is above your head :
 * `2B, 2B, 2A` > `236KK`    
 * `cl.5B` > `2C` > ...
 * `cl.5D feint` > `2C` > ...
-
 #### Low Confirms
 * `2B, 5B` > `623C Break`
 * `2B, 2B, 2A` > `236B` OR `236KK`
 * `2B, 2B, 5B` > `Super`
-
 #### Specials
 * `623C Break` > `623PP Break`
 * `623C Break` > `236D Break`
@@ -362,54 +362,45 @@ When the opponent is above your head :
 
 
 ## Counter Hit
-
 #### Standard Counter Hit
 * `5A` > `2C`
 * `far 5D` > `5C`
+* `cl.5C` > `feint` > `2C`
 * `cl.5D feint` > `cl.5D feint` > `2C`
 * `236KK Break` > `2C`
 * `TAP-P` > `2C`
-
 #### Launcher / Juggle (Counter Hit)
 * `623C/PP Break` > `dash` > `623C Break`
 * `236D Break` > `dash` > `623C Break`
 * `TAP-K` > `236PP, 214PP` > `623C Break`
-
 #### Overhead 6A (Counter Hit)
 * `6A` > `2C`
 * `6A` > `623C`
-
 #### 214PP (Counter Hit)
 * `214PP, TAP-PP, 236KK`
-
 #### Wild Punish
 * `far 5C` > `dash` > `623C Break` OR `2C`
 * `far 5D` > `dash` > `cl.5C`
 * `2D` > `236236P` (OTG)
-
 #### Overhead 6A
 * `6A` > `2A` > `236B`
 * `6A` > `2A` > `5B` > `Super`
 * `6A` > `623A`
 * Standing Only: `6A` > `2A` > `236D Break`
-
 #### 214P (Counter)
 * `214PP` > `236PP, 214PP, 623C Break`
 * `214P` > `623C Break`
 
-## Bnb's
-
+## BnB's combos
 #### All Ranges (1 Meter)
 * 292 dmg: `623C Break` > `623PP Break` > `236D whiff` > `236236B`
 * 345 dmg: `623C Break` > `623PP Break` > `236PP, TAP-KK` > `236236B`
 * 355 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP-PP, 236PP, 214PP` > `236236B`
-
 #### Corner (1 Meter)
 * 355 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP PP, 236PP` > `236236P`
 * 359 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP-PP, 236PP, 236KK Break` > `236236B`
 * 520 dmg (counter): `cl.5D feint x2` > `2C` > `623C Break` > `623PP Break` > `236PP, TAP-KK` > `236236B`
 * 552 dmg (corner): `cl.5D feint x2` > `2C` > `236D Break` > `623C Break` > `623PP Break` > `236PP, REV Blow` > `236236B`
-
 #### Corner (2 Meters)
 * 592 dmg: `cl.5D feint` > `2C` > `236PP` > `Rev Blow` > `623C Break` > `623PP Break` > `236D Break` > `236236A` > `236236B`
 * 657 dmg (counter): `cl.5D feint x2` > `2C` > `236D Break` > `623C Break` > `236PP, 623PP Break` > `236236A` > `236236B`
