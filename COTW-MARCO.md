@@ -2,13 +2,6 @@
 
 ![Description](https://www.jeuxactu.com/datas/jeux/f/a/fatal-fury-city-of-the-wolves/vn/fatal-fury-city-of-the-wo-663805356aed1.jpg)
 
-| Strengths | Weaknesses |
-| :--- | :--- |
-| ✅ Full screen super (236236P) | ❌ Weak mid-range |
-| ✅ Fast and cancelable Dash | ❌ No reliable pokes (except far.5B > Super) |
-| ✅ Special counter | |
-| ✅ Projectiles | |
-
 ## Framedata
 
 <details>
@@ -198,20 +191,19 @@
 
 #### Movement
 * `short dash` > `214C`
-#### REV blow (ground) juggle
+#### REV blow juggle
 * `623A` or `623PP Break`
+* `236236A`
 #### Crosscut inputs
 When the opponent is above your head :
 * DP: `Hold fwd` > `214C Break` 
-* Super 236236K: `Hold REV` > `236` > `214K`
+* Super: `Hold REV` > `236` > `214K`
 * Counter (214P): `Hold fwd` > `236A`
 #### 2A/2C > 623P input
 * `3A/3C` > `4123P` 
-#### Game mechanics
-* Hyper Defend : You must pass through the neutral position then hold forwward (Let go of the stick just before inputting forward)
 
 ## Anti-Air
-> Use Dash > 623C Break to anti-air from afar
+> Dash > 623C Break to anti-air from afar
 * `5A`
 * `623A/623C Break`
 * `2C`
@@ -220,15 +212,15 @@ When the opponent is above your head :
 * `far 5D`
 
 ## 214P Counter
-* `214A / 214PP` Counters Highs and Rev Blows. 
+* `214A/PP` Counters Highs and Rev Blows. 
 * `214C` Counters Lows.
-* `214PP` more active frames; cancels to Rev Arts.
+* `214PP` more active frames; cancelable
 
 
 
 ## Supers
-> Damage tier: `REV` > `D` > `C` > `B` > `A`
-> Confirm into a Super from at most 3 lights
+> Damage: `REV` > `D` > `C` > `B` > `A`
+> Super-confirm from at most 3 lights
 
 * `236236A/B` Main super confirm
 * `236236A/C` Punish from afar
@@ -238,13 +230,13 @@ When the opponent is above your head :
 
 ## Break
 
-> 623C/PP Break on block leaves at throw range.
+> 623C/PP Break leaves at throw range.
 > Bait a throw with a short jD or backdash 5B.
 
 * `623C Break` Combo tool; -2 on block.
 * `236D Break` Combo tool.
-* `236KK Break` Breaks on 2nd hit; -2 on block.
-* `236B Break` Whiff only; used for meaty setups.
+* `236KK Break` Break 2nd hit; -2 on block.
+* `236B Break` Whiff only; for meaty setups.
 
 
 
@@ -257,8 +249,8 @@ When the opponent is above your head :
 * `TAP-KK`: -2F/-4F/-10F ob
 
 ## Guard Crush
-> hit-confirm with `dash` > `cl.5D` or `2C`.
-> ❌ = There's a gap vulnerable to invincible reversals
+> hit-confirm with dash > cl.5D or 2C.
+> x = There's a gap vulnerable to invincible reversals
 * `2B,2B,5A` ❌ `236PP,236KK` > `REV Blow`
 * `cl.5D` > `TAP-PP,236PP,236KK` ❌ `REV Blow`
 * `cl.5D` > `TAP-PP,214PP` > `5A,2B,5B` > `236236A`
@@ -293,20 +285,15 @@ When the opponent is above your head :
 ## Okizeme
 > Use them on HKD (Throw, Rev Blow, Supers or 2D). 
 #### Meaty - Normals
-`All ranges:` 
 * `236236A` > `236D whiff` > `dash` > `cl.5D`
-
-`Corner:`
-* `Throw` > `C+REV whiff` > `cl.5D`
-* `REV blow` > `whiff 623C` > `cl.5C/5D`
+* Corner: `Throw` > `C+REV whiff` > `cl.5D`
+* Corner: `REV blow` > `whiff 623C` > `cl.5C/5D`
 
 #### Meaty - Overhead (6A)
 > 6A meaty creates a 50% mixup (6A or Feint > 2B). Hit Confirm a meaty overhead with 2C.
 * `236236A` > `whiff 236D` > `short dash` > `6A`
 * `Throw` > `fwd normal jump` > `6A`
-
-`Corner:`
-* `Throw` > `whiff 5C` > `dash` > `6A`
+* Corner: `Throw` > `whiff 5C` > `dash` > `6A`
 
 #### Meaty - Overhead (C+REV)
 * `Throw` > `dash` > `dash` > `C+REV`
@@ -321,21 +308,16 @@ When the opponent is above your head :
 * `236236B` > `214A` > `short jD` 
 * `236236A` > `214C` > `dash` > `jD`
 * `Throw` > `feint` > `jD`
-
-`Corner:`
-* `236KK` > `REV Blow` > `dash fwd jD`
+* Corner: `236KK` > `REV Blow` > `dash fwd jD`
 
 #### High/low mixups
 * `REV Blow` > `236D whiff` > `dash` > `6A`
 * `REV Blow` > `236D whiff` > `214C` > `2B`
-
-`Corner:`
-* `Throw` > `214C` > `whiff 5A` > `6A`
-* `Throw` > `fwd short jump` > `feint` > `2B`
+* Corner: `Throw` > `214C` > `whiff 5A` > `6A`
+* Corner: `Throw` > `fwd short jump` > `feint` > `2B`
 
 #### Guard Cancel/Throw setups
-`Corner:`
-* `236236B` > `fwd normal jump` > `feint` > `63214~A+B` : Confirm with 6P if you see the JD animation  
+* Corner: `236236B` > `fwd normal jump` > `feint` > `63214~A+B` : Confirm with 6P if you see the JD animation  
 
 
 ## Hit confirms
@@ -369,7 +351,7 @@ When the opponent is above your head :
 * `cl.5D feint` > `cl.5D feint` > `2C`
 * `236KK Break` > `2C`
 * `TAP-P` > `2C`
-#### Launcher / Juggle (Counter Hit)
+#### Launcher (Counter Hit)
 * `623C/PP Break` > `dash` > `623C Break`
 * `236D Break` > `dash` > `623C Break`
 * `TAP-K` > `236PP, 214PP` > `623C Break`
