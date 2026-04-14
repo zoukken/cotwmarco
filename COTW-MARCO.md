@@ -195,7 +195,6 @@
 * `623A` or `623PP Break`
 * `236236A`
 #### Crosscut inputs
-When the opponent is above your head :
 * DP: `Hold fwd` > `214C Break` 
 * Super: `Hold REV` > `236` > `214K`
 * Counter (214P): `Hold fwd` > `236A`
@@ -203,9 +202,8 @@ When the opponent is above your head :
 * `3A/3C` > `4123P` 
 
 ## Anti-Air
-> Dash > 623C Break to anti-air from afar
 * `5A`
-* `623A/623C Break`
+* `623A/623C Break` Dash to anti-air from afar
 * `2C`
 * `236KK`
 * `down+C+REV`
@@ -219,7 +217,7 @@ When the opponent is above your head :
 
 
 ## Supers
-> Damage: `REV` > `D` > `C` > `B` > `A`
+> Damage: REV > D > C > B > A
 > Super-confirm from at most 3 lights
 
 * `236236A/B` Main super confirm
@@ -241,8 +239,8 @@ When the opponent is above your head :
 
 
 ## TAP
-> Useful for frametraps and combo extensions.
-> `TAP-KK` is the fastest version.
+> frametraps and combo extensions.
+> TAP-KK is the fastest version.
 * `TAP-P`: -4F ob
 * `TAP-PP`: +4F ob
 * `TAP-K`: 0F/-4F/-9F ob
@@ -250,7 +248,7 @@ When the opponent is above your head :
 
 ## Guard Crush
 > hit-confirm with dash > cl.5D or 2C.
-> x = There's a gap vulnerable to invincible reversals
+> x = looses to invincible reversals
 * `2B,2B,5A` ❌ `236PP,236KK` > `REV Blow`
 * `cl.5D` > `TAP-PP,236PP,236KK` ❌ `REV Blow`
 * `cl.5D` > `TAP-PP,214PP` > `5A,2B,5B` > `236236A`
@@ -270,14 +268,12 @@ When the opponent is above your head :
 * `5A, 5A, 5A` > `far 5C`
 * `5A, 5A` > `far 5C`
 
-## Jumps & Crossups
-> Hit-confitm : jD/jC > cl.5C (must hit deep) or jB > 2C 
+## Crossups
 > Note: You can't crossup with a short jump.
-
-### Crossup Setups
 * `2B` (block) > `jB`
 * `2B`, `2A` (block) > `jB`
 * `cl.5D feint` (block) > `jB`
+* `236236A` > `whiff 236D` > `High jump B`
 
 
 
