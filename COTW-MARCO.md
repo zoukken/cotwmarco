@@ -181,8 +181,11 @@
 
 <!-- ############################################################# -->
 
-
 ## Tips
+
+<details>
+  <summary>SHOW/HIDE</summary>
+
 #### Pressure
 * `jump D` > `dash` > `2A`
 * `cl.5D feint` > `2A` > `236C`
@@ -200,6 +203,7 @@
 * Counter (214P): `Hold fwd` > `236A`
 #### 2A/2C > 623P input
 * `3A/3C` > `4123P` 
+</details>
 
 ## Anti-Air
 * `5A`
@@ -239,7 +243,7 @@
 
 
 ## TAP
-> frametraps and combo extensions.
+> Frametraps and combo extensions.
 > TAP-KK is the fastest version.
 * `TAP-P`: -4F ob
 * `TAP-PP`: +4F ob
@@ -247,15 +251,13 @@
 * `TAP-KK`: -2F/-4F/-10F ob
 
 ## Guard Crush
-> hit-confirm with dash > cl.5D or 2C.
+> Hit-confirm with dash > cl.5D or 2C.
 > x = looses to invincible reversals
 * `2B,2B,5A` ❌ `236PP,236KK` > `REV Blow`
 * `cl.5D` > `TAP-PP,236PP,236KK` ❌ `REV Blow`
 * `cl.5D` > `TAP-PP,214PP` > `5A,2B,5B` > `236236A`
 
 ## Frametraps
-
-#### All ranges
 * `2C, 236A` > `far 5C`
 * `cl.5B` > `TAP-PP` or `623C`
 * `cl.5D` > `2C`
@@ -263,10 +265,8 @@
 * `236PP, 214PP` > `2A`
 * `236PP, 214PP` > `623C`
 * `jD` > `cl.5C`
-
-#### Corner
-* `5A, 5A, 5A` > `far 5C`
-* `5A, 5A` > `far 5C`
+* corner: `5A, 5A, 5A` > `far 5C`
+* corner: `5A, 5A` > `far 5C`
 
 ## Crossups
 > Note: You can't crossup with a short jump.
@@ -279,14 +279,15 @@
 
 
 ## Okizeme
-> Use them on HKD (Throw, Rev Blow, Supers or 2D). 
+> After Throw, Rev Blow or  Super 
 #### Meaty - Normals
 * `236236A` > `236D whiff` > `dash` > `cl.5D`
 * Corner: `Throw` > `C+REV whiff` > `cl.5D`
 * Corner: `REV blow` > `whiff 623C` > `cl.5C/5D`
 
 #### Meaty - Overhead (6A)
-> 6A meaty creates a 50% mixup (6A or Feint > 2B). Hit Confirm a meaty overhead with 2C.
+> Creates a 50% mix (6A or Feint > 2B). 
+> Hit Confirm with 2C.
 * `236236A` > `whiff 236D` > `short dash` > `6A`
 * `Throw` > `fwd normal jump` > `6A`
 * Corner: `Throw` > `whiff 5C` > `dash` > `6A`
