@@ -251,8 +251,7 @@
 * `TAP-KK`: -2F/-4F/-10F ob
 
 ## Guard Crush
-> Hit-confirm with dash > cl.5D or 2C.
-> x = looses to invincible reversals
+Hit-confirm with dash > cl.5D or 2C.
 * `2B,2B,5A` ❌ `236PP,236KK` > `REV Blow`
 * `cl.5D` > `TAP-PP,236PP,236KK` ❌ `REV Blow`
 * `cl.5D` > `TAP-PP,214PP` > `5A,2B,5B` > `236236A`
@@ -269,7 +268,7 @@
 * corner: `5A, 5A` > `far 5C`
 
 ## Crossups
-> Note: You can't crossup with a short jump.
+Note: You can't crossup with a short jump.
 * `2B` (block) > `jB`
 * `2B`, `2A` (block) > `jB`
 * `cl.5D feint` (block) > `jB`
@@ -279,15 +278,13 @@
 
 
 ## Okizeme
-> After Throw, Rev Blow or  Super 
+After Throw, Rev Blow or Super 
 #### Meaty - Normals
 * `236236A` > `236D whiff` > `dash` > `cl.5D`
 * Corner: `Throw` > `C+REV whiff` > `cl.5D`
 * Corner: `REV blow` > `whiff 623C` > `cl.5C/5D`
 
 #### Meaty - Overhead (6A)
-> Creates a 50% mix (6A or Feint > 2B). 
-> Hit Confirm with 2C.
 * `236236A` > `whiff 236D` > `short dash` > `6A`
 * `Throw` > `fwd normal jump` > `6A`
 * Corner: `Throw` > `whiff 5C` > `dash` > `6A`
@@ -305,7 +302,7 @@
 * `236236B` > `214A` > `short jD` 
 * `236236A` > `214C` > `dash` > `jD`
 * `Throw` > `feint` > `jD`
-* Corner: `236KK` > `REV Blow` > `dash fwd jD`
+* Corner: `236KK` > `REV Blow` > `dash jD`
 
 #### High/low mixups
 * `REV Blow` > `236D whiff` > `dash` > `6A`
