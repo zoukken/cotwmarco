@@ -96,6 +96,7 @@
   <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_cr7.png"> -->
   <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_ganacci.png"  data-target="info-salvatore">
   <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_hokutomaru.png" data-target="info-hokutomaru">
+  <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_krauser.webp" data-target="info-krauser">
   <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_andy.png"> -->
   <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_ken.png"> -->
   <!-- <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_joe.png"> -->
@@ -176,6 +177,14 @@
 </div>
 
 
+<div id="info-krauser" class="content-div">
+  <h3>Wolfgang krauser</h3>
+
+- to do
+
+</div>
+
+
 </details>
 
 
@@ -201,59 +210,75 @@
 * Counter (214P): `Hold fwd` > `236A`
 #### 2A/2C > 623P input
 * `3A/3C` > `4123P` 
+
+#### High/low mixups
+* `REV Blow` > `236D whiff`
+  * `dash` > `6A`
+  * `214C` > `2B`
+* Corner: 
+* `Throw` > `214C` > `whiff 5A` > `6A`
+* `Throw` > `short jump` > `feint 2B`
+
+#### Guard Cancel/Throw setups
+* Corner: `236236B` > `fwd normal jump` > `feint` > `63214~A+B` : Confirm with 6P if you see the JD animation  
+
 </details>
 
-## Anti-Air
+<details>
+  <summary>Defense</summary>
+
+#### Anti-Air
 * `5A`
-* `623A/623C Brk` Dash to anti-air from afar
+* `623A/623C Brk` use Dash from afar
 * `2C`
 * `236KK`
 * `down+C+REV`
 * `far 5D`
 
-## 214P Counter
-* `214A/PP` Counters Highs and Rev Blows. 
+#### 214P Counter
+* `214A/PP` Counters Highs/Rev Blow. 
 * `214C` Counters Lows.
-* `214PP` more active frames; cancelable
+* `214PP` Cancelable
+</details>
 
 
+<details>
+  <summary>Offense</summary>
 
-## Supers
-> Damage: REV > D > C > B > A
-> Super-confirm from at most 3 lights or Far 5B/5D/5C
+#### Supers
+Damage: REV > D > C > B > A
+Super-confirm from at most 3 lights or Far 5B/5D/5C
 
 * `236236A/B` Main super confirm
 * `236236A/C` Punish from afar
 * `236236A/D/REV` 6F Startup
 * `236236B/D/REV` Invincible
 
-## Break
+#### Break
 
-> 623C/PP Brk leaves at throw range.
-> Bait a throw with a short jD or backdash 5B.
+623C/PP Brk leaves at throw range.
+Bait a throw with a short jD or backdash 5B.
 
 * `623C Brk` Combo tool; -2 on block.
 * `236D Brk` Combo tool.
 * `236KK Brk` Brk 2nd hit; -2 on block.
 * `236B Brk` Whiff only; for meaty setups.
 
-
-
-## TAP
-> Frametraps and combo extensions.
-> TAP-KK is the fastest version.
+#### TAP
+Frametraps and combo extensions.
+TAP-KK is the fastest version.
 * `TAP-P`: -4F ob
 * `TAP-PP`: +4F ob
 * `TAP-K`: 0F/-4F/-9F ob
 * `TAP-KK`: -2F/-4F/-10F ob
 
-## Guard Crush
+#### Guard Crush
 Hit-confirm with dash > cl.5D or 2C.
 * `2B,2B,5A` ❌ `236PP,236KK` > `REV Blow`
 * `cl.5D` > `TAP-PP,236PP,236KK` ❌ `REV Blow`
 * `cl.5D` > `TAP-PP,214PP` > `5A,2B,5B` > `236236A`
 
-## Frametraps
+#### Frametraps
 * `2C, 236A` > `far 5C`
 * `cl.5B` > `TAP-PP` or `623C`
 * `cl.5D` > `2C`
@@ -261,21 +286,24 @@ Hit-confirm with dash > cl.5D or 2C.
 * `236PP, 214PP` > `2A`
 * `236PP, 214PP` > `623C`
 * `jD` > `cl.5C`
-* corner: `5A, 5A, 5A` > `far 5C`
-* corner: `5A, 5A` > `far 5C`
+* corner: 
+* `5A, 5A, 5A` > `far 5C`
+* `5A, 5A` > `far 5C`
 
-## Crossups
+#### Crossups
 Note: You can't crossup with a short jump.
 * `2B` (block) > `jB`
 * `2B`, `2A` (block) > `jB`
 * `cl.5D feint` (block) > `jB`
 * `236236A` > `whiff 236D` > `High jump B`
 
+</details>
 
 
 
-## Okizeme
-After Throw, Rev Blow or Super 
+<details>
+  <summary>Okizeme </summary>
+
 #### Meaty - Normals
 * `236236A` > `236D whiff` > `dash` > `cl.5D`
 * Corner: `Throw` > `C+REV whiff` > `cl.5D`
@@ -301,29 +329,25 @@ After Throw, Rev Blow or Super
 * `Throw` > `feint` > `jD`
 * Corner: `236KK` > `REV Blow` > `dash jD`
 
-#### High/low mixups
-* `REV Blow` > `236D whiff` > `dash` > `6A`
-* `REV Blow` > `236D whiff` > `214C` > `2B`
-* Corner: `Throw` > `214C` > `whiff 5A` > `6A`
-* Corner: `Throw` > `fwd short jump` > `feint` > `2B`
-
-#### Guard Cancel/Throw setups
-* Corner: `236236B` > `fwd normal jump` > `feint` > `63214~A+B` : Confirm with 6P if you see the JD animation  
+</details>
 
 
-## Hit confirms
-#### Standing Confirms
+<details>
+  <summary>Combos</summary>
+
+#### Hit confirms
+##### Standing Confirms
 * `5A, 5A` > `236C/B` 
 * `5A, 5A` > `623C Brk`
 * `5A, 5A, 5A` > `236KK`
 * `2B, 2B, 2A` > `236KK`    
 * `cl.5B` > `2C` > ...
 * `cl.5D feint` > `2C` > ...
-#### Low Confirms
+##### Low Confirms
 * `2B, 5B` > `623C Brk`
 * `2B, 2B, 2A` > `236B` OR `236KK`
 * `2B, 2B, 5B` > `Super`
-#### Specials
+##### Specials
 * `623C Brk` > `623PP Brk`
 * `623C Brk` > `236D Brk`
 * `623C Brk` > `Super`
@@ -334,46 +358,48 @@ After Throw, Rev Blow or Super
 
 
 
-## Counter Hit
-#### Standard Counter Hit
+#### Counter Hit
+##### Standard Counter Hit
 * `5A` > `2C`
 * `far 5D` > `5C`
 * `cl.5C` > `feint` > `2C`
 * `cl.5D feint` > `cl.5D feint` > `2C`
 * `236KK Brk` > `2C`
 * `TAP-P` > `2C`
-#### Launcher (Counter Hit)
+##### Launcher (Counter Hit)
 * `623C/PP Brk` > `dash` > `623C Brk`
 * `236D Brk` > `dash` > `623C Brk`
 * `TAP-K` > `236PP, 214PP` > `623C Brk`
-#### Overhead 6A (Counter Hit)
+##### Overhead 6A (Counter Hit)
 * `6A` > `2C`
 * `6A` > `623C`
-#### 214PP (Counter Hit)
+##### 214PP (Counter Hit)
 * `214PP, TAP-PP, 236KK`
-#### Wild Punish
+##### Wild Punish
 * `far 5C` > `dash` > `623C Brk` OR `2C`
 * `far 5D` > `dash` > `cl.5C`
 * `2D` > `236236P` (OTG)
-#### Overhead 6A
+##### Overhead 6A
 * `6A` > `2A` > `236B`
 * `6A` > `2A` > `5B` > `Super`
 * `6A` > `623A`
 * Standing Only: `6A` > `2A` > `236D Brk`
-#### 214P (Counter)
+##### 214P (Counter)
 * `214PP` > `236PP, 214PP, 623C Brk`
 * `214P` > `623C Brk`
 
-## BnB's combos
-#### All Ranges (1 Meter)
+#### BnB's combos
+##### All Ranges (1 Meter)
 * 292 dmg: `623C Brk` > `623PP Brk` > `236D whiff` > `236236B`
 * 345 dmg: `623C Brk` > `623PP Brk` > `236PP, TAP-KK` > `236236B`
 * 355 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP-PP, 236PP, 214PP` > `236236B`
-#### Corner (1 Meter)
+##### Corner (1 Meter)
 * 355 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP PP, 236PP` > `236236P`
 * 359 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP-PP, 236PP, 236KK Brk` > `236236B`
 * 520 dmg (counter): `cl.5D feint x2` > `2C` > `623C Brk` > `623PP Brk` > `236PP, TAP-KK` > `236236B`
-* 552 dmg (corner): `cl.5D feint x2` > `2C` > `236D Brk` > `623C Brk` > `623PP Brk` > `236PP, REV Blow` > `236236B`
-#### Corner (2 Meters)
+* 552 dmg (counter+corner): `cl.5D feint x2` > `2C` > `236D Brk` > `623C Brk` > `623PP Brk` > `236PP, REV Blow` > `236236B`
+##### Corner (2 Meters)
 * 592 dmg: `cl.5D feint` > `2C` > `236PP` > `Rev Blow` > `623C Brk` > `623PP Brk` > `236D Brk` > `236236A` > `236236B`
 * 657 dmg (counter): `cl.5D feint x2` > `2C` > `236D Brk` > `623C Brk` > `236PP, 623PP Brk` > `236236A` > `236236B`
+
+</details>

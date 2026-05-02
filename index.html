@@ -44,37 +44,6 @@
       opacity: .4;
     }
 
-    /* ── SIDEBAR ── */
-    #sidebar {
-      position: fixed; top: 0; left: 0; bottom: 0;
-      width: 220px;
-      background: var(--bg2);
-      border-right: 1px solid var(--border);
-      padding: 28px 0;
-      z-index: 100;
-      overflow-y: auto;
-      display: flex; flex-direction: column; gap: 0;
-    }
-
-    .sidebar-logo {
-      font-family: var(--display);
-      font-size: 2.4rem;
-      letter-spacing: .05em;
-      color: var(--accent);
-      padding: 0 24px 20px;
-      border-bottom: 1px solid var(--border);
-      line-height: 1;
-    }
-    .sidebar-logo span {
-      display: block;
-      font-size: .7rem;
-      font-family: var(--mono);
-      color: var(--muted);
-      letter-spacing: .2em;
-      text-transform: uppercase;
-      margin-top: 4px;
-    }
-
     .nav-section { padding: 18px 0 4px; }
     .nav-section-title {
       font-family: var(--mono);
@@ -209,7 +178,7 @@
       margin: 22px 0 8px;
     }
 
-    #content p { margin-bottom: 12px; color: var(--text); }
+    #content p { margin-bottom: 12px; color: var(--text); font-size: small;}
 
     #content code {
       font-family: var(--mono);
@@ -308,8 +277,9 @@
     #content details li, #content details ul {
       margin-left: 10px;
       margin-right: 10px;
+          color: darkgray; 
+      font-size: small;
     }
-
     
 
     #content summary {
@@ -325,7 +295,7 @@
     }
     #content summary:hover { background: rgba(232,200,64,.07); }
     #content details[open] summary { border-bottom: 1px solid var(--border); }
-    #content details > *:not(summary) { padding: 0 18px 18px; }
+    #content details > *:not(summary) { padding: 0 18px 8px; }
     #content details table { margin-top: 16px; }
 
     #content details img {width: 100%; max-width: 55px; margin: 0; padding: 2px;}
@@ -403,9 +373,6 @@
 <body>
 
   <nav id="sidebar">
-    <div class="sidebar-logo">
-      MARCO<span>City of the Wolves</span>
-    </div>
     <div id="nav-links"></div>
   </nav>
 
