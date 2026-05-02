@@ -2,12 +2,12 @@
 
 ![Description](https://www.jeuxactu.com/datas/jeux/f/a/fatal-fury-city-of-the-wolves/vn/fatal-fury-city-of-the-wo-663805356aed1.jpg)
 
-## Framedata
+
 
 <details>
-  <summary>SHOW/HIDE</summary>
+  <summary>Framedata</summary>
   
-| Move | G | S | OB | DMG | REV |
+| Move | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | Far A | Mid | 6 | 0 | 35 | 3% |
 | Far B | Mid | 8 | -4 | 40 | 4% |
@@ -30,7 +30,7 @@
 | High Dodge | Mid | 10 | -6 | 50 | 5% |
 | Low Dodge | High | 25 | -2 | 80 | 8% |
 
-| Move | G | S | OB | DMG | REV |
+| Move | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 6A | High | 19 | -8 | 50 | - |
 | C,D,D | Mid | 9 | -8 | 143 | - |
@@ -39,22 +39,22 @@
 | CD,P | Mid | 9 | -3 | 82 | 10% |
 | j.CD | Mid | 21 | -2 | 132 | 10% |
 
-| Move | G | S | OB | DMG | REV |
+| Move | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 236A | Mid | 13 | -6 | 60 | 6% |
 | 236C | Mid | 16 | -5 | 60 | 6% |
 | 236PP | Mid | 17 | 0 | 100 | 10% |
 | 623A | Mid | 5 | -34 | 70 | 7% |
 | 623C | Mid | 7 | -44 | 70 | 7% |
-| 623C Break | Mid | 7 | -2 | 70 | 7% |
+| 623C Brk | Mid | 7 | -2 | 70 | 7% |
 | 623KK | Mid | 6 | -43 | 70 | 8% |
-| 623KK Break | Mid | 6 | -2 | 80 | 8% |
+| 623KK Brk | Mid | 6 | -2 | 80 | 8% |
 | 236B | Mid | 13 | -17 | 90 | 3% |
-| 236B Break | - | - | - | - | - |
+| 236B Brk | - | - | - | - | - |
 | 236D | Mid | 13 | -24 | 120 | 5% |
-| 236D Break | Mid | 13 | - | 50 | 5% |
+| 236D Brk | Mid | 13 | - | 50 | 5% |
 | 236KK | Mid | 11 | -9 | 120 | 12% |
-| 236KK Break | Mid | 11 | -2 | 70 | 7 |
+| 236KK Brk | Mid | 11 | -2 | 70 | 7 |
 | 214A | Mid | - | - | 140 | - |
 | 214C | Mid | - | - | 160 | - |
 | 214PP | - | - | - | 100 | - |
@@ -63,7 +63,7 @@
 | TAP-K | Mid | 15 | -9 | 80 | 8% |
 | TAP-KK | Mid | 13 | -10 | 90 | 9% |
 
-| Move | G | S | OB | DMG | REV |
+| Move | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 236236A | Mid | 8 | -22 | 250 | 25% |
 | 236236B | Mid | 7 | -76 | 220 | 9% |
@@ -73,10 +73,10 @@
 
 </details>
 
-## Matchups
+
 
 <details>
-  <summary>SHOW/HIDE</summary>
+  <summary>Matchups</summary>
 
 <div class="character-select">
   <img src="https://www.snk-corp.co.jp/us/games/fatalfury-cotw/characters/img/character_index_rock.png" data-target="info-rock">
@@ -145,7 +145,7 @@
 
 - `Roll stick (623P)` EX version is plus, use HD > 623A/214PP
 - `Long range stick (236P)` All version are -8F/-10 Ob. Safe from afar, uless if you use 236236C 
-- `High jump drop stick (236K)` Punish before landing with 623C Break
+- `High jump drop stick (236K)` Punish before landing with 623C Brk
 </div>
 
 
@@ -154,10 +154,10 @@
 
 - He dosent have a 5F special reversal.
 - `Kunai projectile` Stop it with 2A
-- `Elbow and hopkick break` -2F Ob, if he has meter, just wait.
+- `Elbow and hopkick Brk` -2F Ob, if he has meter, just wait.
 - `Rasengan super` HD then JD all hits before punishing (more meter gain).
 - `REV Blow` Block the 1st hit then punish with 5A > 236D
-- `Teleport` Punish with down+C+REV > 236D break > 236KK
+- `Teleport` Punish with down+C+REV > 236D Brk > 236KK
 </div>
 
 
@@ -181,10 +181,8 @@
 
 <!-- ############################################################# -->
 
-## Tips
-
 <details>
-  <summary>SHOW/HIDE</summary>
+  <summary>Tips</summary>
 
 #### Pressure
 * `jump D` > `dash` > `2A`
@@ -195,10 +193,10 @@
 #### Movement
 * `short dash` > `214C`
 #### REV blow juggle
-* `623A` or `623PP Break`
+* `623A` or `623PP Brk`
 * `236236A`
 #### Crosscut inputs
-* DP: `Hold fwd` > `214C Break` 
+* DP: `Hold fwd` > `214C Brk` 
 * Super: `Hold REV` > `236` > `214K`
 * Counter (214P): `Hold fwd` > `236A`
 #### 2A/2C > 623P input
@@ -207,7 +205,7 @@
 
 ## Anti-Air
 * `5A`
-* `623A/623C Break` Dash to anti-air from afar
+* `623A/623C Brk` Dash to anti-air from afar
 * `2C`
 * `236KK`
 * `down+C+REV`
@@ -222,23 +220,22 @@
 
 ## Supers
 > Damage: REV > D > C > B > A
-> Super-confirm from at most 3 lights
+> Super-confirm from at most 3 lights or Far 5B/5D/5C
 
 * `236236A/B` Main super confirm
 * `236236A/C` Punish from afar
-* `Far 5B/5D/5C` are super-cancelable
 * `236236A/D/REV` 6F Startup
 * `236236B/D/REV` Invincible
 
 ## Break
 
-> 623C/PP Break leaves at throw range.
+> 623C/PP Brk leaves at throw range.
 > Bait a throw with a short jD or backdash 5B.
 
-* `623C Break` Combo tool; -2 on block.
-* `236D Break` Combo tool.
-* `236KK Break` Break 2nd hit; -2 on block.
-* `236B Break` Whiff only; for meaty setups.
+* `623C Brk` Combo tool; -2 on block.
+* `236D Brk` Combo tool.
+* `236KK Brk` Brk 2nd hit; -2 on block.
+* `236B Brk` Whiff only; for meaty setups.
 
 
 
@@ -292,7 +289,7 @@ After Throw, Rev Blow or Super
 #### Meaty - Overhead (C+REV)
 * `Throw` > `dash` > `dash` > `C+REV`
 * `Throw` > `fwd short jump` > `C+REV`
-* `Throw` > `whiff 236B Break` > `C+REV`
+* `Throw` > `whiff 236B Brk` > `C+REV`
 * `Back Throw` > `C+REV`
 * `236236P` > `whiff 236D` > `C+REV`
 
@@ -317,23 +314,23 @@ After Throw, Rev Blow or Super
 ## Hit confirms
 #### Standing Confirms
 * `5A, 5A` > `236C/B` 
-* `5A, 5A` > `623C Break`
+* `5A, 5A` > `623C Brk`
 * `5A, 5A, 5A` > `236KK`
 * `2B, 2B, 2A` > `236KK`    
 * `cl.5B` > `2C` > ...
 * `cl.5D feint` > `2C` > ...
 #### Low Confirms
-* `2B, 5B` > `623C Break`
+* `2B, 5B` > `623C Brk`
 * `2B, 2B, 2A` > `236B` OR `236KK`
 * `2B, 2B, 5B` > `Super`
 #### Specials
-* `623C Break` > `623PP Break`
-* `623C Break` > `236D Break`
-* `623C Break` > `Super`
-* `236D Break` > `236KK` OR `Super`
-* `236PP, 214PP` > `623C Break`
-* `236PP` > `623PP Break`
-* `TAP-PP, 236PP, 214PP` > `623C Break`
+* `623C Brk` > `623PP Brk`
+* `623C Brk` > `236D Brk`
+* `623C Brk` > `Super`
+* `236D Brk` > `236KK` OR `Super`
+* `236PP, 214PP` > `623C Brk`
+* `236PP` > `623PP Brk`
+* `TAP-PP, 236PP, 214PP` > `623C Brk`
 
 
 
@@ -343,40 +340,40 @@ After Throw, Rev Blow or Super
 * `far 5D` > `5C`
 * `cl.5C` > `feint` > `2C`
 * `cl.5D feint` > `cl.5D feint` > `2C`
-* `236KK Break` > `2C`
+* `236KK Brk` > `2C`
 * `TAP-P` > `2C`
 #### Launcher (Counter Hit)
-* `623C/PP Break` > `dash` > `623C Break`
-* `236D Break` > `dash` > `623C Break`
-* `TAP-K` > `236PP, 214PP` > `623C Break`
+* `623C/PP Brk` > `dash` > `623C Brk`
+* `236D Brk` > `dash` > `623C Brk`
+* `TAP-K` > `236PP, 214PP` > `623C Brk`
 #### Overhead 6A (Counter Hit)
 * `6A` > `2C`
 * `6A` > `623C`
 #### 214PP (Counter Hit)
 * `214PP, TAP-PP, 236KK`
 #### Wild Punish
-* `far 5C` > `dash` > `623C Break` OR `2C`
+* `far 5C` > `dash` > `623C Brk` OR `2C`
 * `far 5D` > `dash` > `cl.5C`
 * `2D` > `236236P` (OTG)
 #### Overhead 6A
 * `6A` > `2A` > `236B`
 * `6A` > `2A` > `5B` > `Super`
 * `6A` > `623A`
-* Standing Only: `6A` > `2A` > `236D Break`
+* Standing Only: `6A` > `2A` > `236D Brk`
 #### 214P (Counter)
-* `214PP` > `236PP, 214PP, 623C Break`
-* `214P` > `623C Break`
+* `214PP` > `236PP, 214PP, 623C Brk`
+* `214P` > `623C Brk`
 
 ## BnB's combos
 #### All Ranges (1 Meter)
-* 292 dmg: `623C Break` > `623PP Break` > `236D whiff` > `236236B`
-* 345 dmg: `623C Break` > `623PP Break` > `236PP, TAP-KK` > `236236B`
-* 355 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP-PP, 236PP, 214PP` > `236236B`
+* 292 dmg: `623C Brk` > `623PP Brk` > `236D whiff` > `236236B`
+* 345 dmg: `623C Brk` > `623PP Brk` > `236PP, TAP-KK` > `236236B`
+* 355 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP-PP, 236PP, 214PP` > `236236B`
 #### Corner (1 Meter)
-* 355 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP PP, 236PP` > `236236P`
-* 359 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP-PP, 236PP, 236KK Break` > `236236B`
-* 520 dmg (counter): `cl.5D feint x2` > `2C` > `623C Break` > `623PP Break` > `236PP, TAP-KK` > `236236B`
-* 552 dmg (corner): `cl.5D feint x2` > `2C` > `236D Break` > `623C Break` > `623PP Break` > `236PP, REV Blow` > `236236B`
+* 355 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP PP, 236PP` > `236236P`
+* 359 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP-PP, 236PP, 236KK Brk` > `236236B`
+* 520 dmg (counter): `cl.5D feint x2` > `2C` > `623C Brk` > `623PP Brk` > `236PP, TAP-KK` > `236236B`
+* 552 dmg (corner): `cl.5D feint x2` > `2C` > `236D Brk` > `623C Brk` > `623PP Brk` > `236PP, REV Blow` > `236236B`
 #### Corner (2 Meters)
-* 592 dmg: `cl.5D feint` > `2C` > `236PP` > `Rev Blow` > `623C Break` > `623PP Break` > `236D Break` > `236236A` > `236236B`
-* 657 dmg (counter): `cl.5D feint x2` > `2C` > `236D Break` > `623C Break` > `236PP, 623PP Break` > `236236A` > `236236B`
+* 592 dmg: `cl.5D feint` > `2C` > `236PP` > `Rev Blow` > `623C Brk` > `623PP Brk` > `236D Brk` > `236236A` > `236236B`
+* 657 dmg (counter): `cl.5D feint x2` > `2C` > `236D Brk` > `623C Brk` > `236PP, 623PP Brk` > `236236A` > `236236B`
