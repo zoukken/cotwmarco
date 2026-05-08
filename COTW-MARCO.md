@@ -222,6 +222,10 @@
 #### Guard Cancel/Throw setups
 * Corner: `236236B` > `fwd normal jump` > `feint` > `63214~A+B` : Confirm with 6P if you see the JD animation  
 
+
+#### JD input timing on wake-up
+* input JD at the moment the character begins rising to his feet. Works whether it's the opponent's wake-up or your own.
+
 </details>
 
 <details>
@@ -295,7 +299,7 @@ Note: You can't crossup with a short jump.
 * `2B` (block) > `jB`
 * `2B`, `2A` (block) > `jB`
 * `cl.5D feint` (block) > `jB`
-* `236236A` > `whiff 236D` > `High jump B`
+* `236236A` > `whiff 236D` > `jB`
 
 </details>
 
@@ -311,6 +315,7 @@ Note: You can't crossup with a short jump.
 
 #### Meaty - Overhead (6A)
 * `236236A` > `whiff 236D` > `short dash` > `6A`
+* `REV Blow` > `whiff 236D` > `dash` > `6A`
 * `Throw` > `fwd normal jump` > `6A`
 * Corner: `Throw` > `whiff 5C` > `dash` > `6A`
 
