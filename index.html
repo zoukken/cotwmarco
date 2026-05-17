@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>MARCO — City of the Wolves</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="shortcut icon" href="/favicon.ico" />
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,600;1,300&display=swap" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
   <style>
@@ -256,7 +257,7 @@ body::before {
   width: 100%;
   border-collapse: collapse;
   margin: 16px 0 24px;
-  font-size: var(--fs-body);
+  font-size: 0.7rem;
   font-family: var(--mono);
 }
 
@@ -268,7 +269,6 @@ body::before {
 #content th {
   text-align: left;
   padding: 8px 14px;
-  font-size: var(--fs-body);
   letter-spacing: .15em;
   text-transform: uppercase;
   color: var(--accent);
@@ -334,7 +334,7 @@ body::before {
 
 /* ── INTERACTIVE COMPONENTS ── */
 .character-select { margin: 5px; }
-.character-select img { width: 80px; cursor: pointer; margin: 5px; }
+.character-select img { width: 45px; cursor: pointer; margin: 5px; margin-top: 0px !important; margin-bottom: 0px !important; }
 .character-select img:hover, 
 .character-select img.selected { background: var(--accent2); }
 

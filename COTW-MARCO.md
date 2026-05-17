@@ -153,9 +153,9 @@
 <div id="info-hokutomaru" class="content-div">
   <h3>Hokutomaru</h3>
 
-- He dosent have a 5F special reversal.
-- `Kunai projectile` Stop it with 2A
-- `Elbow and hopkick Brk` -2F Ob, if he has meter, just wait.
+- No 5F special reversal.
+- `Kunai` Stop it with 2A
+- `Elbow / Hopkick Brk` -2F Ob, if he has meter, just wait.
 - `Rasengan super` HD then JD all hits before punishing (more meter gain).
 - `REV Blow` Block the 1st hit then punish with 5A > 236D
 - `Teleport` Punish with down+C+REV > 236D Brk > 236KK
@@ -201,9 +201,15 @@
 
 #### Movement
 * `short dash` > `214C`
-#### REV blow juggle
+#### REV blow
+
+##### REV blow juggle
 * `623A` or `623PP Brk`
 * `236236A`
+##### REV blow clash
+* When you counter a rev blow with your own, confirm with a follow-up (input a 2nd rev blow) to get the crush.
+##### Notes
+* Rev blow is safe, -3 OB, the follow-up too.
 #### Crosscut inputs
 * DP: `Hold fwd` > `214C Brk` 
 * Super: `Hold REV` > `236` > `214K`
@@ -222,9 +228,12 @@
 #### Guard Cancel/Throw setups
 * Corner: `236236B` > `fwd normal jump` > `feint` > `63214~A+B` : Confirm with 6P if you see the JD animation  
 
-
 #### JD input timing on wake-up
 * input JD at the moment the character begins rising to his feet. Works whether it's the opponent's wake-up or your own.
+
+#### Punish high dodge on block
+
+* All the high dodges of the game are -6F OB, punish with 2C or 2A
 
 </details>
 
@@ -287,6 +296,7 @@ Hit-confirm with dash > cl.5D or 2C.
 * `cl.5B` > `TAP-PP` or `623C`
 * `cl.5D` > `2C`
 * `2C` > `TAP-P`
+* `cl.5C (2hit)` > `TAP-P` (5B confirm)
 * `236PP, 214PP` > `2A`
 * `236PP, 214PP` > `623C`
 * `jD` > `cl.5C`
@@ -310,6 +320,7 @@ Note: You can't crossup with a short jump.
 
 #### Meaty - Normals
 * `236236A` > `236D whiff` > `dash` > `cl.5D`
+* `Rev blow` > `whiff 236D break` > `dash` > `feint` > `2B`
 * Corner: `Throw` > `C+REV whiff` > `cl.5D`
 * Corner: `REV blow` > `whiff 623C` > `cl.5C/5D`
 
@@ -367,7 +378,8 @@ Note: You can't crossup with a short jump.
 ##### Standard Counter Hit
 * `5A` > `2C`
 * `far 5D` > `5C`
-* `cl.5C` > `feint` > `2C`
+* `cl.5C (2hit)` > `feint` > `2C`
+* `cl.5C (2hit)` > `feint` > `cl.5D` > `feint` > `2C` …
 * `cl.5D feint` > `cl.5D feint` > `2C`
 * `236KK Brk` > `2C`
 * `TAP-P` > `2C`
@@ -399,7 +411,7 @@ Note: You can't crossup with a short jump.
 * 345 dmg: `623C Brk` > `623PP Brk` > `236PP, TAP-KK` > `236236B`
 * 355 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP-PP, 236PP, 214PP` > `236236B`
 ##### Corner (1 Meter)
-* 355 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP PP, 236PP` > `236236P`
+* 355 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP PP, 236PP` > `236236B`
 * 359 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP-PP, 236PP, 236KK Brk` > `236236B`
 * 520 dmg (counter): `cl.5D feint x2` > `2C` > `623C Brk` > `623PP Brk` > `236PP, TAP-KK` > `236236B`
 * 552 dmg (counter+corner): `cl.5D feint x2` > `2C` > `236D Brk` > `623C Brk` > `623PP Brk` > `236PP, REV Blow` > `236236B`
