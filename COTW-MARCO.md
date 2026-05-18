@@ -7,7 +7,7 @@
 <details>
   <summary>Framedata</summary>
   
-| Move | Guard | S | OB | DMG | REV |
+| Normal | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | Far A | Mid | 6 | 0 | 35 | 3% |
 | Far B | Mid | 8 | -4 | 40 | 4% |
@@ -30,7 +30,7 @@
 | High Dodge | Mid | 10 | -6 | 50 | 5% |
 | Low Dodge | High | 25 | -2 | 80 | 8% |
 
-| Move | Guard | S | OB | DMG | REV |
+| Misc | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 6A | High | 19 | -8 | 50 | - |
 | C,D,D | Mid | 9 | -8 | 143 | - |
@@ -39,7 +39,7 @@
 | CD,P | Mid | 9 | -3 | 82 | 10% |
 | jump CD | Mid | 21 | -2 | 132 | 10% |
 
-| Move | Guard | S | OB | DMG | REV |
+| Special | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 236A | Mid | 13 | -6 | 60 | 6% |
 | 236C | Mid | 16 | -5 | 60 | 6% |
@@ -63,7 +63,7 @@
 | TAP-K | Mid | 15 | -9 | 80 | 8% |
 | TAP-KK | Mid | 13 | -10 | 90 | 9% |
 
-| Move | Guard | S | OB | DMG | REV |
+| Super | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
 | 236236A | Mid | 8 | -22 | 250 | 25% |
 | 236236B | Mid | 7 | -76 | 220 | 9% |
@@ -108,7 +108,7 @@
 </div>
 
 <div id="info-rock" class="content-div">
-  <h3>Rock Howard</h3>
+  <h4>Rock Howard</h4>
   
   - `236P fireball` At mid-range, use 236KK to pass through it.
   - `214K,A (jump crossup)` Stop it with 5A/2C > 236D
@@ -116,7 +116,7 @@
 </div>
 
 <div id="info-terry" class="content-div">
-  <h3>Terry Bogard</h3>
+  <h4>Terry Bogard</h4>
 
 - `214PP,214KK/236PP blockstring` 
   - Punish right after 214PP with 236236C.
@@ -125,7 +125,7 @@
 
 
 <div id="info-hotaru" class="content-div">
-  <h3>Hotaru Futaba</h3>
+  <h4>Hotaru Futaba</h4>
 
 - `Divekick` All versions are unsafe , punish at close range with 2C
 - `Command grab` All version aren't invincible. Punish the statup with jab or throw.
@@ -135,14 +135,14 @@
 
 
 <div id="info-salvatore" class="content-div">
-  <h3>Salvatore Ganacci</h3>
+  <h4>Salvatore Ganacci</h4>
 
 - `far 5HP` Hits twice, plus on block, but the 1st hit whiff on crouch, whiff punish quickly with 2A/2C
 </div>
 
 
 <div id="info-billy" class="content-div">
-  <h3>Billy Kane</h3>
+  <h4>Billy Kane</h4>
 
 - `Roll stick (623P)` EX version is plus, use HD > 623A/214PP
 - `Long range stick (236P)` All version are -8F/-10 Ob. Safe from afar, uless if you use 236236C 
@@ -151,7 +151,7 @@
 
 
 <div id="info-hokutomaru" class="content-div">
-  <h3>Hokutomaru</h3>
+  <h4>Hokutomaru</h4>
 
 - No 5F special reversal.
 - `Kunai` Stop it with 2A
@@ -163,7 +163,7 @@
 
 
 <div id="info-donghwan" class="content-div">
-  <h3>Kim Dong Hwan</h3>
+  <h4>Kim Dong Hwan</h4>
 
 - `Standing low special` 
   - Light version don't hit low and is -2F Ob
@@ -178,7 +178,7 @@
 
 
 <div id="info-krauser" class="content-div">
-  <h3>Wolfgang krauser</h3>
+  <h4>Wolfgang krauser</h4>
 
 - to do
 
