@@ -34,10 +34,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 6A | High | 19 | -8 | 50 | - |
 | C,D,D | Mid | 9 | -8 | 143 | - |
-| j.B,A | High | 7 | - | 77 | - |
+| jump. B,A | High | 7 | - | 77 | - |
 | CD | Mid | 17 | -3 | 127 | 10% |
 | CD,P | Mid | 9 | -3 | 82 | 10% |
-| j.CD | Mid | 21 | -2 | 132 | 10% |
+| jump CD | Mid | 21 | -2 | 132 | 10% |
 
 | Move | Guard | S | OB | DMG | REV |
 | --- | --- | --- | --- | --- | --- |
@@ -203,13 +203,12 @@
 * `short dash` > `214C`
 #### REV blow
 
-##### REV blow juggle
-* `623A` or `623PP Brk`
-* `236236A`
-##### REV blow clash
-* When you counter a rev blow with your own, confirm with a follow-up (input a 2nd rev blow) to get the crush.
+##### REV blow juggle on airborne opponents
+* `REV Blow` > `623A` or `623PP Brk`
+* `REV Blow` > `236236A`
 ##### Notes
 * Rev blow is safe, -3 OB, the follow-up too.
+* When you counter a rev blow with your own, confirm with the follow-up (input a 2nd rev blow) to get the crush.
 #### Crosscut inputs
 * DP: `Hold fwd` > `214C Brk` 
 * Super: `Hold REV` > `236` > `214K`
