@@ -47,8 +47,8 @@
 | 623A | Mid | 5 | -34 | 70 | 7% |
 | 623C | Mid | 7 | -44 | 70 | 7% |
 | 623C Break | Mid | 7 | -2 | 70 | 7% |
-| 623KK | Mid | 6 | -43 | 70 | 8% |
-| 623KK Break | Mid | 6 | -2 | 80 | 8% |
+| 623PP | Mid | 6 | -43 | 70 | 8% |
+| 623PP Break | Mid | 6 | -2 | 80 | 8% |
 | 236B | Mid | 13 | -17 | 90 | 3% |
 | 236B Break | - | - | - | - | - |
 | 236D | Mid | 13 | -24 | 120 | 5% |
@@ -229,7 +229,8 @@
 * Then, if you see the JD animation, just follow up with 6P to get the 623P input
 
 #### JD input timing on wake-up
-* Use down-back (JD) exactly when the character starts to stand up. This works for both your own wake-up and the opponent's.
+* Use down-back (JD) exactly when the character starts to stand up. 
+* This works for both your own wake-up and the opponent's.
 
 #### Punish high dodge on block
 
@@ -242,7 +243,7 @@
 
 #### Anti-Air
 * `5A`
-* `623A/623C Break` use Dash from afar
+* `623A/623C Break` anti-air with Dash > 623P from afar
 * `2C`
 * `236KK`
 * `down+C+REV`
@@ -259,7 +260,7 @@
   <summary>Offense</summary>
 
 #### Supers
-Damage: REV > D > C > B > A
+Max damage supers: REV > D > C > B > A
 Super-confirm from at most 3 lights or Far 5B/5D/5C
 
 * `236236A/B` Main super confirm
@@ -269,8 +270,11 @@ Super-confirm from at most 3 lights or Far 5B/5D/5C
 
 #### Break
 
-623C/PP Break leaves at throw range.
-Bait a throw with a short jD or backdash 5B.
+- After 623C/PP Break on block (-2F), you are at throw range. This allows you to:
+  - Tech throw
+  - Bait a throw with Neutral short jump D or backdash > 5B
+  - Bait an attack with JD
+
 
 * `623C Break` Combo tool; -2 on block.
 * `236D Break` Combo tool.
