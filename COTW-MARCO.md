@@ -46,15 +46,15 @@
 | 236PP | Mid | 17 | 0 | 100 | 10% |
 | 623A | Mid | 5 | -34 | 70 | 7% |
 | 623C | Mid | 7 | -44 | 70 | 7% |
-| 623C Brk | Mid | 7 | -2 | 70 | 7% |
+| 623C Break | Mid | 7 | -2 | 70 | 7% |
 | 623KK | Mid | 6 | -43 | 70 | 8% |
-| 623KK Brk | Mid | 6 | -2 | 80 | 8% |
+| 623KK Break | Mid | 6 | -2 | 80 | 8% |
 | 236B | Mid | 13 | -17 | 90 | 3% |
-| 236B Brk | - | - | - | - | - |
+| 236B Break | - | - | - | - | - |
 | 236D | Mid | 13 | -24 | 120 | 5% |
-| 236D Brk | Mid | 13 | - | 50 | 5% |
+| 236D Break | Mid | 13 | - | 50 | 5% |
 | 236KK | Mid | 11 | -9 | 120 | 12% |
-| 236KK Brk | Mid | 11 | -2 | 70 | 7 |
+| 236KK Break | Mid | 11 | -2 | 70 | 7 |
 | 214A | Mid | - | - | 140 | - |
 | 214C | Mid | - | - | 160 | - |
 | 214PP | - | - | - | 100 | - |
@@ -146,7 +146,7 @@
 
 - `Roll stick (623P)` EX version is plus, use HD > 623A/214PP
 - `Long range stick (236P)` All version are -8F/-10 Ob. Safe from afar, uless if you use 236236C 
-- `High jump drop stick (236K)` Punish before landing with 623C Brk
+- `High jump drop stick (236K)` Punish before landing with 623C Break
 </div>
 
 
@@ -155,10 +155,10 @@
 
 - No 5F special reversal.
 - `Kunai` Stop it with 2A
-- `Elbow / Hopkick Brk` -2F Ob, if he has meter, just wait.
+- `Elbow / Hopkick Break` -2F Ob, if he has meter, just wait.
 - `Rasengan super` HD then JD all hits before punishing (more meter gain).
 - `REV Blow` Block the 1st hit then punish with 5A > 236D
-- `Teleport` Punish with down+C+REV > 236D Brk > 236KK
+- `Teleport` Punish with down+C+REV > 236D Break > 236KK
 </div>
 
 
@@ -204,13 +204,13 @@
 #### REV blow
 
 ##### REV blow juggle on airborne opponents
-* `REV Blow` > `623A` or `623PP Brk`
+* `REV Blow` > `623A` or `623PP Break`
 * `REV Blow` > `236236A`
 ##### Notes
-* Rev blow is safe, -3 OB, the follow-up too.
-* When you counter a rev blow with your own, confirm with the follow-up (input a 2nd rev blow) to get the crush.
+* Rev Blow is safe (–3 on block); the follow-up is also safe.
+* If you counter an opponent's Rev Blow with your own, press it again immediately to trigger a "crush" effect.
 #### Crosscut inputs
-* DP: `Hold fwd` > `214C Brk` 
+* DP: `Hold fwd` > `214C Break` 
 * Super: `Hold REV` > `236` > `214K`
 * Counter (214P): `Hold fwd` > `236A`
 #### 2A/2C > 623P input
@@ -225,14 +225,15 @@
 * `Throw` > `short jump` > `feint 2B`
 
 #### Guard Cancel/Throw setups
-* Corner: `236236B` > `fwd normal jump` > `feint` > `63214~A+B` : Confirm with 6P if you see the JD animation  
+* Corner: `236236B` > `fwd normal jump` > `feint` > `63214~A+B` 
+* Then, if you see the JD animation, just follow up with 6P to get the 623P input
 
 #### JD input timing on wake-up
-* input JD at the moment the character begins rising to his feet. Works whether it's the opponent's wake-up or your own.
+* Use down-back (JD) exactly when the character starts to stand up. This works for both your own wake-up and the opponent's.
 
 #### Punish high dodge on block
 
-* All the high dodges of the game are -6F OB, punish with 2C or 2A
+* All character's high dodges are -6F OB, punish with 2C or 2A
 
 </details>
 
@@ -241,7 +242,7 @@
 
 #### Anti-Air
 * `5A`
-* `623A/623C Brk` use Dash from afar
+* `623A/623C Break` use Dash from afar
 * `2C`
 * `236KK`
 * `down+C+REV`
@@ -268,13 +269,13 @@ Super-confirm from at most 3 lights or Far 5B/5D/5C
 
 #### Break
 
-623C/PP Brk leaves at throw range.
+623C/PP Break leaves at throw range.
 Bait a throw with a short jD or backdash 5B.
 
-* `623C Brk` Combo tool; -2 on block.
-* `236D Brk` Combo tool.
-* `236KK Brk` Brk 2nd hit; -2 on block.
-* `236B Brk` Whiff only; for meaty setups.
+* `623C Break` Combo tool; -2 on block.
+* `236D Break` Combo tool.
+* `236KK Break` Break 2nd hit; -2 on block.
+* `236B Break` Whiff only; for meaty setups.
 
 #### TAP
 Frametraps and combo extensions.
@@ -332,7 +333,7 @@ Note: You can't crossup with a short jump.
 #### Meaty - Overhead (C+REV)
 * `Throw` > `dash` > `dash` > `C+REV`
 * `Throw` > `fwd short jump` > `C+REV`
-* `Throw` > `whiff 236B Brk` > `C+REV`
+* `Throw` > `whiff 236B Break` > `C+REV`
 * `Back Throw` > `C+REV`
 * `236236P` > `whiff 236D` > `C+REV`
 
@@ -353,23 +354,23 @@ Note: You can't crossup with a short jump.
 #### Hit confirms
 ##### Standing Confirms
 * `5A, 5A` > `236C/B` 
-* `5A, 5A` > `623C Brk`
+* `5A, 5A` > `623C Break`
 * `5A, 5A, 5A` > `236KK`
 * `2B, 2B, 2A` > `236KK`    
 * `cl.5B` > `2C` > ...
 * `cl.5D feint` > `2C` > ...
 ##### Low Confirms
-* `2B, 5B` > `623C Brk`
+* `2B, 5B` > `623C Break`
 * `2B, 2B, 2A` > `236B` OR `236KK`
 * `2B, 2B, 5B` > `Super`
 ##### Specials
-* `623C Brk` > `623PP Brk`
-* `623C Brk` > `236D Brk`
-* `623C Brk` > `Super`
-* `236D Brk` > `236KK` OR `Super`
-* `236PP, 214PP` > `623C Brk`
-* `236PP` > `623PP Brk`
-* `TAP-PP, 236PP, 214PP` > `623C Brk`
+* `623C Break` > `623PP Break`
+* `623C Break` > `236D Break`
+* `623C Break` > `Super`
+* `236D Break` > `236KK` OR `Super`
+* `236PP, 214PP` > `623C Break`
+* `236PP` > `623PP Break`
+* `TAP-PP, 236PP, 214PP` > `623C Break`
 
 
 
@@ -380,42 +381,42 @@ Note: You can't crossup with a short jump.
 * `cl.5C (2hit)` > `feint` > `2C`
 * `cl.5C (2hit)` > `feint` > `cl.5D` > `feint` > `2C` …
 * `cl.5D feint` > `cl.5D feint` > `2C`
-* `236KK Brk` > `2C`
+* `236KK Break` > `2C`
 * `TAP-P` > `2C`
 ##### Launcher (Counter Hit)
-* `623C/PP Brk` > `dash` > `623C Brk`
-* `236D Brk` > `dash` > `623C Brk`
-* `TAP-K` > `236PP, 214PP` > `623C Brk`
+* `623C/PP Break` > `dash` > `623C Break`
+* `236D Break` > `dash` > `623C Break`
+* `TAP-K` > `236PP, 214PP` > `623C Break`
 ##### Overhead 6A (Counter Hit)
 * `6A` > `2C`
 * `6A` > `623C`
 ##### 214PP (Counter Hit)
 * `214PP, TAP-PP, 236KK`
 ##### Wild Punish
-* `far 5C` > `dash` > `623C Brk` OR `2C`
+* `far 5C` > `dash` > `623C Break` OR `2C`
 * `far 5D` > `dash` > `cl.5C`
 * `2D` > `236236P` (OTG)
 ##### Overhead 6A
 * `6A` > `2A` > `236B`
 * `6A` > `2A` > `5B` > `Super`
 * `6A` > `623A`
-* Standing Only: `6A` > `2A` > `236D Brk`
+* Standing Only: `6A` > `2A` > `236D Break`
 ##### 214P (Counter)
-* `214PP` > `236PP, 214PP, 623C Brk`
-* `214P` > `623C Brk`
+* `214PP` > `236PP, 214PP, 623C Break`
+* `214P` > `623C Break`
 
 #### BnB's combos
 ##### All Ranges (1 Meter)
-* 292 dmg: `623C Brk` > `623PP Brk` > `236D whiff` > `236236B`
-* 345 dmg: `623C Brk` > `623PP Brk` > `236PP, TAP-KK` > `236236B`
-* 355 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP-PP, 236PP, 214PP` > `236236B`
+* 292 dmg: `623C Break` > `623PP Break` > `236D whiff` > `236236B`
+* 345 dmg: `623C Break` > `623PP Break` > `236PP, TAP-KK` > `236236B`
+* 355 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP-PP, 236PP, 214PP` > `236236B`
 ##### Corner (1 Meter)
-* 355 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP PP, 236PP` > `236236B`
-* 359 dmg: `623C Brk` > `623PP Brk` > `236D Brk` > `TAP-PP, 236PP, 236KK Brk` > `236236B`
-* 520 dmg (counter): `cl.5D feint x2` > `2C` > `623C Brk` > `623PP Brk` > `236PP, TAP-KK` > `236236B`
-* 552 dmg (counter+corner): `cl.5D feint x2` > `2C` > `236D Brk` > `623C Brk` > `623PP Brk` > `236PP, REV Blow` > `236236B`
+* 355 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP PP, 236PP` > `236236B`
+* 359 dmg: `623C Break` > `623PP Break` > `236D Break` > `TAP-PP, 236PP, 236KK Break` > `236236B`
+* 520 dmg (counter): `cl.5D feint x2` > `2C` > `623C Break` > `623PP Break` > `236PP, TAP-KK` > `236236B`
+* 552 dmg (counter+corner): `cl.5D feint x2` > `2C` > `236D Break` > `623C Break` > `623PP Break` > `236PP, REV Blow` > `236236B`
 ##### Corner (2 Meters)
-* 592 dmg: `cl.5D feint` > `2C` > `236PP` > `Rev Blow` > `623C Brk` > `623PP Brk` > `236D Brk` > `236236A` > `236236B`
-* 657 dmg (counter): `cl.5D feint x2` > `2C` > `236D Brk` > `623C Brk` > `236PP, 623PP Brk` > `236236A` > `236236B`
+* 592 dmg: `cl.5D feint` > `2C` > `236PP` > `Rev Blow` > `623C Break` > `623PP Break` > `236D Break` > `236236A` > `236236B`
+* 657 dmg (counter): `cl.5D feint x2` > `2C` > `236D Break` > `623C Break` > `236PP, 623PP Break` > `236236A` > `236236B`
 
 </details>
